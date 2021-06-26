@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="353686666t" end="381631250t" region="topCenter" style="s1" xml:id="subtitle0"><span style="s1_1">Önceki birçok salgın hastalık gibi</span></p>
+<p begin="384967916t" end="433766666t" region="topCenter" style="s1" xml:id="subtitle1"><span style="s1_1">çok sayıda insanın ölmesi tek bir </span><br/><span style="s1_1">mikroskobik organizmayla başladı.</span></p>
+<p begin="455454999t" end="477560416t" region="topCenter" style="s1" xml:id="subtitle2">GLASGOW, 3 NİSAN 2008</p>
+<p begin="521771249t" end="534283749t" region="bottomCenter" style="s1" xml:id="subtitle3">ESRARENGİZ VİRÜS YÜZLERCE CAN ALDI...</p>
+<p begin="535117916t" end="563479582t" region="bottomCenter" style="s1" xml:id="subtitle4"><span style="s1_1">Bu tür felaketlerde azıcık da olsa</span><br/><span style="s1_1">biraz rahatlamak için...</span></p>
+<p begin="564313750t" end="574740832t" region="topCenter" style="s1" xml:id="subtitle5">16. BÖLGE<br/>249 CESET BULUNDU</p>
+<p begin="575575000t" end="598931666t" region="bottomCenter" style="s1" xml:id="subtitle6"><span style="s1_1">...akıl veya mantığa sığınmak </span><br/><span style="s1_1">insan doğasında vardır.</span></p>
+<p begin="603102500t" end="636052082t" region="bottomCenter" style="s1" xml:id="subtitle7"><span style="s1_1">Ama virüs zaman veya yer seçmez.</span></p>
+<p begin="642725416t" end="665665000t" region="bottomCenter" style="s1" xml:id="subtitle8"><span style="s1_1">Nefret etmez, umursamaz.</span></p>
+<p begin="674840832t" end="693192500t" region="bottomCenter" style="s1" xml:id="subtitle9"><span style="s1_1">Öylece ortaya çıkar.</span></p>
+<p begin="788704582t" end="817483332t" region="topCenter" style="s1" xml:id="subtitle10">İNGİLTERE / İSKOÇYA SINIRI<br/>20 HAZİRAN, 21.17</p>
+<p begin="902151249t" end="921337082t" region="bottomCenter" style="s1" xml:id="subtitle11"><span style="s1_1">Evlerinize gidin!</span></p>
+<p begin="933015416t" end="971387082t" region="bottomCenter" style="s1" xml:id="subtitle12"><span style="s1_1">Reaper virüsü </span><br/><span style="s1_1">sıradan bir soğuk algınlığı gibi</span></p>
+<p begin="972638332t" end="990155832t" region="bottomCenter" style="s1" xml:id="subtitle13"><span style="s1_1">Glasgow halkı arasında yayıldı.</span></p>
+<p begin="997663332t" end="1016849166t" region="topCenter" style="s1" xml:id="subtitle14"><span style="s1_1">Durdurulamadı.</span></p>
+<p begin="1017683332t" end="1040622916t" region="topCenter" style="s1" xml:id="subtitle15"><span style="s1_1">Tedavisi yoktu. Aşısı yoktu.</span></p>
+<p begin="1060225832t" end="1086085000t" region="topCenter" style="s1" xml:id="subtitle16"><span style="s1_1">Birinci hafta binlerce can aldı.</span></p>
+<p begin="1087753332t" end="1105270832t" region="topCenter" style="s1" xml:id="subtitle17">Bu, dünyanın sonu!</p>
+<p begin="1106105000t" end="1119034582t" region="topCenter" style="s1" xml:id="subtitle18">SON YAKLAŞIYOR</p>
+<p begin="1127376250t" end="1166582082t" region="topCenter" style="s1" xml:id="subtitle19"><span style="s1_1">Salgını bastırmak için </span><br/><span style="s1_1">sıkıyönetim ilan edildi.</span></p>
+<p begin="1167416250t" end="1194943750t" region="topCenter" style="s1" xml:id="subtitle20"><span style="s1_1">Yollara barikatlar kuruldu. </span><br/><span style="s1_1">Sokağa çıkma yasağı ilan edildi.</span></p>
+<p begin="1195777916t" end="1208707500t" region="topCenter" style="s1" xml:id="subtitle21">Hadi, yürümemiz gerekiyor.</p>
+<p begin="1209541666t" end="1240405832t" region="topCenter" style="s1" xml:id="subtitle22"><span style="s1_1">Havaalanları, limanlar </span><br/><span style="s1_1">ve sınırlar kapatıldı.</span></p>
+<p begin="1242908332t" end="1273772500t" region="topCenter" style="s1" xml:id="subtitle23"><span style="s1_1">İskoçya karantinaya alındı.</span></p>
+<p begin="1277109166t" end="1301717082t" region="topCenter" style="s1" xml:id="subtitle24"><span style="s1_1">İnsanlara evlerinden çıkmamaları,</span></p>
+<p begin="1302551250t" end="1325907916t" region="topCenter" style="s1" xml:id="subtitle25"><span style="s1_1">seyahatten ve başkalarıyla </span><br/><span style="s1_1">temastan kaçınmaları,</span></p>
+<p begin="1328410416t" end="1370118750t" region="topCenter" style="s1" xml:id="subtitle26"><span style="s1_1">sadece oturmaları ve gelmeyen yardımı </span><br/><span style="s1_1">beklemeleri emredildi.</span></p>
+<p begin="1522771250t" end="1535700832t" region="topCenter" style="s1" xml:id="subtitle27">Çekilin!</p>
+<p begin="1538203332t" end="1554469582t" region="topCenter" style="s1" xml:id="subtitle28">Geçmemize izin vermelisiniz!</p>
+<p begin="1603268332t" end="1649981666t" region="topCenter" style="s1" xml:id="subtitle29">Çekilin! Yürüyün!<br/>Çekilin yoldan! Yürüsene!</p>
+<p begin="1652067082t" end="1687102082t" region="topCenter" style="s1" xml:id="subtitle30">Hey sen! Sana söylüyorum!</p>
+<p begin="1688770416t" end="1706287916t" region="bottomCenter" style="s1" xml:id="subtitle31">Yere yat, hemen!</p>
+<p begin="1710041666t" end="1726724999t" region="bottomCenter" style="s1" xml:id="subtitle32">Herkes yere yatsın!</p>
+<p begin="1737569166t" end="1752167082t" region="bottomCenter" style="s1" xml:id="subtitle33">Ateş etme!</p>
+<p begin="1821819999t" end="1836000832t" region="bottomCenter" style="s1" xml:id="subtitle34">Seni aşağılık!</p>
+<p begin="1882297082t" end="1901065832t" region="bottomCenter" style="s1" xml:id="subtitle35">Geri çekilin!</p>
+<p begin="1915663749t" end="1931929999t" region="bottomCenter" style="s1" xml:id="subtitle36">Çekilin yoldan!</p>
+<p begin="2096677916t" end="2111275832t" region="bottomCenter" style="s1" xml:id="subtitle37">İleri!</p>
+<p begin="2185933750t" end="2197195000t" region="bottomCenter" style="s1" xml:id="subtitle38">İyi misin?</p>
+<p begin="2213878332t" end="2227642082t" region="bottomCenter" style="s1" xml:id="subtitle39">Alçak!</p>
+<p begin="2228476250t" end="2248496250t" region="bottomCenter" style="s1" xml:id="subtitle40">Bana bak hayatım. Bak...</p>
+<p begin="2475806666t" end="2493741250t" region="bottomCenter" style="s1" xml:id="subtitle41">Koşun!</p>
+<p begin="2553384166t" end="2570901666t" region="bottomCenter" style="s1" xml:id="subtitle42">Safları bozmayın!</p>
+<p begin="2636383750t" end="2648896250t" region="bottomCenter" style="s1" xml:id="subtitle43">Gaz!</p>
+<p begin="2990070416t" end="3017180832t" region="bottomCenter" style="s1" xml:id="subtitle44">Akıllı kızım. Gel.</p>
+<p begin="3064728332t" end="3077240832t" region="bottomCenter" style="s1" xml:id="subtitle45">Yardım edin!</p>
+<p begin="3189853332t" end="3204034166t" region="bottomCenter" style="s1" xml:id="subtitle46">Lütfen! Bizi de götürün!</p>
+<p begin="3204868332t" end="3215295416t" region="bottomCenter" style="s1" xml:id="subtitle47">Çekil!</p>
+<p begin="3216129582t" end="3231144582t" region="bottomCenter" style="s1" xml:id="subtitle48">Çok ağırız! Hemen havalanmalıyız.</p>
+<p begin="3231978750t" end="3246159582t" region="bottomCenter" style="s1" xml:id="subtitle49">Helikopterden uzaklaş!</p>
+<p begin="3246993750t" end="3257420832t" region="bottomCenter" style="s1" xml:id="subtitle50">Ona bir şans verin!</p>
+<p begin="3278692082t" end="3295375416t" region="bottomCenter" style="s1" xml:id="subtitle51">Dur! Ne yapıyorsun?</p>
+<p begin="3296209582t" end="3325405416t" region="bottomCenter" style="s1" xml:id="subtitle52">-Helikoptere bin! Hemen!<br/>-Kızı al!</p>
+<p begin="3329993332t" end="3347927916t" region="bottomCenter" style="s1" xml:id="subtitle53">Hemen gitmemiz lazım!</p>
+<p begin="3358772082t" end="3384631249t" region="bottomCenter" style="s1" xml:id="subtitle54">Korkma hayatım! Her şey yoluna girecek!</p>
+<p begin="3385465416t" end="3397977916t" region="bottomCenter" style="s1" xml:id="subtitle55">Hadi!</p>
+<p begin="3434681249t" end="3448444999t" region="bottomCenter" style="s1" xml:id="subtitle56">Çekilin!</p>
+<p begin="3468047916t" end="3480560416t" region="bottomCenter" style="s1" xml:id="subtitle57">Şunu al!</p>
+<p begin="3482645832t" end="3497243749t" region="bottomCenter" style="s1" xml:id="subtitle58">Bilsin diye!</p>
+<p begin="3523937082t" end="3540620416t" region="bottomCenter" style="s1" xml:id="subtitle59">Sıkı tutun tatlım!</p>
+<p begin="3567313749t" end="3578992082t" region="bottomCenter" style="s1" xml:id="subtitle60">Eden!</p>
+<p begin="3718714999t" end="3762925832t" region="bottomCenter" style="s1" xml:id="subtitle61"><span style="s1_1">Duvar on metre yüksekliğindeydi, </span><br/><span style="s1_1">çelikten yapılmıştı.</span></p>
+<p begin="3765011249t" end="3803382916t" region="bottomCenter" style="s1" xml:id="subtitle62"><span style="s1_1">İki bin yıllık </span><br/><span style="s1_1">eski Roma duvarını takip ediyor,</span></p>
+<p begin="3805885416t" end="3853432916t" region="bottomCenter" style="s1" xml:id="subtitle63"><span style="s1_1">doğu kıyısından batı kıyısına uzanıyor</span><br/><span style="s1_1">ve İngiltere'yi ikiye bölüyordu.</span></p>
+<p begin="3865528332t" end="3915578332t" region="bottomCenter" style="s1" xml:id="subtitle64"><span style="s1_1">Denize mayın döşenmişti,</span><br/><span style="s1_1">uçuşa yasak bölge ilan edilmişti.</span></p>
+<p begin="3916829582t" end="3936015416t" region="bottomCenter" style="s1" xml:id="subtitle65"><span style="s1_1">Karantinayı ihlal eden tüm uçakların</span></p>
+<p begin="3936849582t" end="3966045416t" region="bottomCenter" style="s1" xml:id="subtitle66"><span style="s1_1">vurulması emredilmişti.</span></p>
+<p begin="3973135832t" end="4026105416t" region="bottomCenter" style="s1" xml:id="subtitle67"><span style="s1_1">Fikir basitti. </span><br/><span style="s1_1">Kimse girmeyecek, kimse çıkmayacaktı.</span></p>
+<p begin="4040286249t" end="4071567499t" region="bottomCenter" style="s1" xml:id="subtitle68"><span style="s1_1">İkinci kısım için </span><br/><span style="s1_1">kaygılanmaları gerekmeyecekti.</span></p>
+<p begin="4149144999t" end="4186682499t" region="bottomCenter" style="s1" xml:id="subtitle69"><span style="s1_1">Karantina bölgesi içinde kalanlar</span><br/><span style="s1_1">ölüme terk edilmişlerdi.</span></p>
+<p begin="4192938749t" end="4223385832t" region="bottomCenter" style="s1" xml:id="subtitle70"><span style="s1_1">Cesetlerle birlikte </span><br/><span style="s1_1">toplumsal düzen de çürüdü.</span></p>
+<p begin="4225888332t" end="4263008749t" region="bottomCenter" style="s1" xml:id="subtitle71"><span style="s1_1">İnsanlar hayatta kalabilmek için savaşınca</span><br/><span style="s1_1">sokaklar kan gölüne döndü.</span></p>
+<p begin="4265928332t" end="4320149166t" region="bottomCenter" style="s1" xml:id="subtitle72"><span style="s1_1">Binlerce ceset birden yakılıyordu.</span><br/><span style="s1_1">Yağma, tecavüz ve cinayet arttı.</span></p>
+<p begin="4326405416t" end="4363108750t" region="bottomCenter" style="s1" xml:id="subtitle73"><span style="s1_1">Şehirler yağmalanırken </span><br/><span style="s1_1">yangınlar yayıldı, hayatta kalanlar</span></p>
+<p begin="4363942916t" end="4408570832t" region="bottomCenter" style="s1" xml:id="subtitle74"><span style="s1_1">ilkel vahşilere dönüştüler. </span><br/><span style="s1_1">Löpekle, fareyle beslenmeye,</span></p>
+<p begin="4413992916t" end="4437766666t" region="bottomCenter" style="s1" xml:id="subtitle75"><span style="s1_1">sonunda da birbirlerini yemeye başladılar.</span></p>
+<p begin="4475304166t" end="4516178332t" region="bottomCenter" style="s1" xml:id="subtitle76"><span style="s1_1">Haftalar, aylar oldukça ölülerin </span><br/><span style="s1_1">yakıldığı ateşler azaldı ve söndü.</span></p>
+<p begin="4519097916t" end="4549962082t" region="bottomCenter" style="s1" xml:id="subtitle77"><span style="s1_1">Zamanla tüm ışıklar söndü</span><br/><span style="s1_1">ve duvarın kuzeyindeki ülke </span></p>
+<p begin="4551213332t" end="4619197916t" region="bottomCenter" style="s1" xml:id="subtitle78"><span style="s1_1">önce hafızaya, </span><br/><span style="s1_1">nihayetinde de tarihe terk edildi.</span></p>
+<p begin="4643388750t" end="4675087082t" region="bottomCenter" style="s1" xml:id="subtitle79"><span style="s1_1">Ama hükûmet </span><br/><span style="s1_1">sırtını sıcak bölgeye çevirdiği anda</span></p>
+<p begin="4677589582t" end="4710122082t" region="bottomCenter" style="s1" xml:id="subtitle80"><span style="s1_1">dünyanın geri kalanı da </span><br/><span style="s1_1">sırtını İngiltere'ye çevirdi.</span></p>
+<p begin="4713875832t" end="4749745000t" region="bottomCenter" style="s1" xml:id="subtitle81"><span style="s1_1">Yüz binlerce işsiz, evsiz </span><br/><span style="s1_1">ve muhtaç insanla</span></p>
+<p begin="4750579166t" end="4780192082t" region="bottomCenter" style="s1" xml:id="subtitle82"><span style="s1_1">durum kırılma noktasına ulaştı.</span></p>
+<p begin="4783528750t" end="4808553750t" region="bottomCenter" style="s1" xml:id="subtitle83"><span style="s1_1">Artık doğa kanunlarının</span></p>
+<p begin="4809805000t" end="4845257082t" region="bottomCenter" style="s1" xml:id="subtitle84"><span style="s1_1">dengeyi kurması an meselesi.</span></p>
+<p begin="4882794582t" end="4915327082t" region="topCenter" style="s1" xml:id="subtitle85">LONDRA, 2035<br/>GÜNÜMÜZ</p>
+<p begin="5211039166t" end="5236898332t" region="bottomCenter" style="s1" xml:id="subtitle86">-Hedefler harekete geçti.<br/><span style="s1_1">-Kayda başla.</span></p>
+<p begin="5605600000t" end="5623117500t" region="bottomCenter" style="s1" xml:id="subtitle87">Bu da ne böyle?</p>
+<p begin="5641469166t" end="5656067082t" region="bottomCenter" style="s1" xml:id="subtitle88">Adi herif!</p>
+<p begin="5757835416t" end="5772016250t" region="bottomCenter" style="s1" xml:id="subtitle89">Çantayı al.</p>
+<p begin="5912573332t" end="5925502916t" region="bottomCenter" style="s1" xml:id="subtitle90">Bırak silahı!</p>
+<p begin="5960537916t" end="6004331666t" region="bottomCenter" style="s1" xml:id="subtitle91">Lanet yumuşak! Ortağın nerede? Söyle!</p>
+<p begin="6020597916t" end="6042703332t" region="bottomCenter" style="s1" xml:id="subtitle92">Bu gemiden canlı çıkacağım.<br/>Sen cehenneme git.</p>
+<p begin="6049376666t" end="6074401666t" region="bottomCenter" style="s1" xml:id="subtitle93">Geri git! Sakın daha fazla yaklaşma</p>
+<p begin="6075652916t" end="6099843750t" region="bottomCenter" style="s1" xml:id="subtitle94">yoksa bunun lanet beynini dağıtırım!</p>
+<p begin="6102346250t" end="6124451666t" region="bottomCenter" style="s1" xml:id="subtitle95">Sinclair, sakın ateş etme.</p>
+<p begin="6126954166t" end="6146557082t" region="bottomCenter" style="s1" xml:id="subtitle96">Ne yapıyorsun? Sinclair!</p>
+<p begin="6148642500t" end="6176170000t" region="bottomCenter" style="s1" xml:id="subtitle97">Kadın çıldırmış! Geri gitmesini söyle!</p>
+<p begin="6177004166t" end="6217044166t" region="bottomCenter" style="s1" xml:id="subtitle98">Ateş etmemeni emrediyorum Sinclair!<br/>Richter, kurtulmanın tek yolu var.</p>
+<p begin="6217878332t" end="6236230000t" region="bottomCenter" style="s1" xml:id="subtitle99">Silahını indir, yoksa seni öldürecek!</p>
+<p begin="6237064166t" end="6249576666t" region="bottomCenter" style="s1" xml:id="subtitle100">Hiç şansın yok!</p>
+<p begin="6250827916t" end="6286280000t" region="bottomCenter" style="s1" xml:id="subtitle101">-Onu öldüreceğim, yemin ederim!<br/>-Sinclair, ateş etme!</p>
+<p begin="6331325000t" end="6343420416t" region="bottomCenter" style="s1" xml:id="subtitle102">Lanet olsun.</p>
+<p begin="6735895832t" end="6755498749t" region="bottomCenter" style="s1" xml:id="subtitle103">O şeye bir türlü alışamayacağım.</p>
+<p begin="6782192082t" end="6800543749t" region="bottomCenter" style="s1" xml:id="subtitle104">Sigaran var mı?</p>
+<p begin="6811387916t" end="6848925416t" region="bottomCenter" style="s1" xml:id="subtitle105">Ne zaman kendine sigara alacaksın?<br/>Bir sigara kaç para, haberin var mı?</p>
+<p begin="6853513332t" end="6872282082t" region="bottomCenter" style="s1" xml:id="subtitle106">Seninkileri neden içtiğimi sanıyorsun?</p>
+<p begin="6881457916t" end="6898975416t" region="bottomCenter" style="s1" xml:id="subtitle107">Michaelson iyi bir adamdı.</p>
+<p begin="6900226666t" end="6926502916t" region="bottomCenter" style="s1" xml:id="subtitle108">Görevdeki en iyi polis değildi ama...</p>
+<p begin="6966125832t" end="6981974999t" region="bottomCenter" style="s1" xml:id="subtitle109">...iyi bir adamdı.</p>
+<p begin="6988648332t" end="7004914582t" region="bottomCenter" style="s1" xml:id="subtitle110">İçeride ne oldu?</p>
+<p begin="7041617916t" end="7055798749t" region="bottomCenter" style="s1" xml:id="subtitle111">Kendin gör.</p>
+<p begin="7072482082t" end="7092084999t" region="bottomCenter" style="s1" xml:id="subtitle112">İyi olan davamıza ne oldu?</p>
+<p begin="7181757916t" end="7199692499t" region="bottomCenter" style="s1" xml:id="subtitle113">Yüzünü hatırlayamıyorum.</p>
+<p begin="7213456249t" end="7227219999t" region="bottomCenter" style="s1" xml:id="subtitle114">Elimde sadece bir zarf üzerinde bir isim</p>
+<p begin="7228054166t" end="7253913332t" region="bottomCenter" style="s1" xml:id="subtitle115">ve asla gidemeyeceğim bir yerin<br/>adresi var.</p>
+<p begin="7256832916t" end="7293536249t" region="bottomCenter" style="s1" xml:id="subtitle116">Dişini tırnağına takarak<br/>en aşağıdan tırmanmanı izledim.</p>
+<p begin="7303963332t" end="7330656666t" region="bottomCenter" style="s1" xml:id="subtitle117">Bu da seni enerjik ve heyecan dolu yaptı.</p>
+<p begin="7331490832t" end="7345671666t" region="bottomCenter" style="s1" xml:id="subtitle118">Böyle devam edersen</p>
+<p begin="7346505832t" end="7380289582t" region="bottomCenter" style="s1" xml:id="subtitle119">ciddi bir şekilde kafayı yemiş<br/>birine dönüşeceksin.</p>
+<p begin="7382792082t" end="7396972916t" region="bottomCenter" style="s1" xml:id="subtitle120">Şimdi bana bir iyilik yap.</p>
+<p begin="7398641249t" end="7441600832t" region="bottomCenter" style="s1" xml:id="subtitle121">Lütfen eve git. Dinlen.</p>
+<p begin="7894970416t" end="7909568332t" region="bottomCenter" style="s1" xml:id="subtitle122">Tamam, hadi açalım!</p>
+<p begin="7993402082t" end="8007165832t" region="bottomCenter" style="s1" xml:id="subtitle123">Geri çekilin!</p>
+<p begin="8019678332t" end="8033442082t" region="bottomCenter" style="s1" xml:id="subtitle124">Geri çekilin!</p>
+<p begin="8086411666t" end="8104763332t" region="bottomCenter" style="s1" xml:id="subtitle125">-Teşekkürler yüzbaşı, bu kadar.<br/>-Efendim.</p>
+<p begin="8105597499t" end="8116858749t" region="bottomCenter" style="s1" xml:id="subtitle126">-Canaris.<br/>-Başbakan.</p>
+<p begin="8117692916t" end="8134376249t" region="bottomCenter" style="s1" xml:id="subtitle127">-Ne kadar?<br/>-İki saat oldu.</p>
+<p begin="8135210416t" end="8145220416t" region="bottomCenter" style="s1" xml:id="subtitle128">E?</p>
+<p begin="8146054582t" end="8191933749t" region="bottomCenter" style="s1" xml:id="subtitle129">DDS bir uyuşturucu baskını sırasında<br/>enfekte olmuş kurbanlar buldu.</p>
+<p begin="8215290416t" end="8242400832t" region="bottomCenter" style="s1" xml:id="subtitle130">-Reaper virüsü.<br/>-Aman Tanrım.</p>
+<p begin="8244486249t" end="8254496249t" region="bottomCenter" style="s1" xml:id="subtitle131">Geri geldi.</p>
+<p begin="8329988332t" end="8362937916t" region="bottomCenter" style="s1" xml:id="subtitle132">Lanet olsun George. Bu acele ne böyle?</p>
+<p begin="8363772082t" end="8397138749t" region="bottomCenter" style="s1" xml:id="subtitle133">Ulusal alarm. Beş dakika sonra<br/>Başbakan'a brifing verilecek.</p>
+<p begin="8400058332t" end="8425917499t" region="bottomCenter" style="s1" xml:id="subtitle134">Resmiyete gerek yok, konu da dağılmasın.</p>
+<p begin="8428419999t" end="8450525416t" region="bottomCenter" style="s1" xml:id="subtitle135">Neyin tehlikede olduğunu biliyoruz,<br/>o yüzden buradasınız.</p>
+<p begin="8461369582t" end="8472213749t" region="bottomCenter" style="s1" xml:id="subtitle136">Jane.</p>
+<p begin="8473047916t" end="8509751249t" region="bottomCenter" style="s1" xml:id="subtitle137">2023'te denizin yükselmesi nedeniyle<br/>Londra sel baskını tehdidi altındayken</p>
+<p begin="8510585416t" end="8533524999t" region="bottomCenter" style="s1" xml:id="subtitle138">Thames sel bariyerini uzattık.</p>
+<p begin="8534359166t" end="8554796249t" region="bottomCenter" style="s1" xml:id="subtitle139">Bu kanallar sistemi, kale hendeği gibi</p>
+<p begin="8555630416t" end="8580238332t" region="bottomCenter" style="s1" xml:id="subtitle140">ırmağın kuzeyinde kalan<br/>bütün şehri kuşatıyor.</p>
+<p begin="8583574999t" end="8629871250t" region="bottomCenter" style="s1" xml:id="subtitle141">Planımız kanallara su vermek,<br/>bütün köprüleri, metro hatlarını...</p>
+<p begin="8630705416t" end="8644886250t" region="bottomCenter" style="s1" xml:id="subtitle142">KIYAMET GÜNÜ ACİL EYLEM PLANI<br/>VİRÜS HAPSEDİLDİ</p>
+<p begin="8645720416t" end="8662403750t" region="bottomCenter" style="s1" xml:id="subtitle143">...ve demir yollarını su altında bırakmak.</p>
+<p begin="8663237916t" end="8685343332t" region="bottomCenter" style="s1" xml:id="subtitle144">12 milyon kişiyi<br/>hapsetmek mi istiyorsunuz?</p>
+<p begin="8686177500t" end="8720378332t" region="bottomCenter" style="s1" xml:id="subtitle145">Mutlak önceliğimiz hapsetmek.<br/>Hemen sıkıyönetim ilan etmeliyiz.</p>
+<p begin="8721212500t" end="8733307916t" region="bottomCenter" style="s1" xml:id="subtitle146">Kuşatmayı sağlamlaştırıp</p>
+<p begin="8734142082t" end="8759167082t" region="bottomCenter" style="s1" xml:id="subtitle147">tıp merkezleri kurana kadar<br/>insanlar evlerinde kalmalı.</p>
+<p begin="8760001250t" end="8785443332t" region="bottomCenter" style="s1" xml:id="subtitle148">-Ancak öyle tahliyeye başlayabiliriz.<br/>-Yapın.</p>
+<p begin="8786694582t" end="8811719582t" region="bottomCenter" style="s1" xml:id="subtitle149">İnsanları balık istifi gibi</p>
+<p begin="8812553750t" end="8831322500t" region="bottomCenter" style="s1" xml:id="subtitle150">evlerine hapsetmeyi anladım</p>
+<p begin="8832990832t" end="8857181666t" region="bottomCenter" style="s1" xml:id="subtitle151">ama virüs içlerine bir girerse</p>
+<p begin="8858850000t" end="8887628750t" region="bottomCenter" style="s1" xml:id="subtitle152">bu şehir anında hapı yutar.</p>
+<p begin="8888462916t" end="8924332082t" region="bottomCenter" style="s1" xml:id="subtitle153">Cesetler sokaklara yığılmaya<br/>başlayınca da panik çıkar.</p>
+<p begin="8926000416t" end="8974799166t" region="bottomCenter" style="s1" xml:id="subtitle154">Düzen bozulur, yağma, tecavüz, cinayet<br/>baş gösterir, bu daha başlangıç.</p>
+<p begin="8975633332t" end="8996904582t" region="bottomCenter" style="s1" xml:id="subtitle155">Ölü sayısı akıl almaz rakamlara ulaşır,</p>
+<p begin="8998155832t" end="9042366666t" region="bottomCenter" style="s1" xml:id="subtitle156">o zaman da<br/>yapabileceğimiz hiçbir şey kalmaz.</p>
+<p begin="9044452082t" end="9077401666t" region="bottomCenter" style="s1" xml:id="subtitle157">Kurtaracağımız milyonları düşünmeliyiz.</p>
+<p begin="9080738332t" end="9112853750t" region="bottomCenter" style="s1" xml:id="subtitle158">İnsanlardan mı söz ediyorsun?<br/>Yoksa banknotlardan mı?</p>
+<p begin="9116190416t" end="9145803332t" region="bottomCenter" style="s1" xml:id="subtitle159">Müdür Nelson, ofisime gelir misiniz?</p>
+<p begin="9152059582t" end="9173747916t" region="bottomCenter" style="s1" xml:id="subtitle160">Azarlayacaksanız acele edin.</p>
+<p begin="9174582082t" end="9200024166t" region="bottomCenter" style="s1" xml:id="subtitle161">Yapmam gereken bir iş var.<br/>Sokaklarda olmam lazım.</p>
+<p begin="9200858332t" end="9212119582t" region="bottomCenter" style="s1" xml:id="subtitle162">Michael.</p>
+<p begin="9212953750t" end="9237144582t" region="bottomCenter" style="s1" xml:id="subtitle163">Birazdan göstereceğimiz şey,</p>
+<p begin="9237978750t" end="9256747500t" region="bottomCenter" style="s1" xml:id="subtitle164">çok gizli ve çok tehlikeli bir şey.</p>
+<p begin="9257581666t" end="9287194582t" region="bottomCenter" style="s1" xml:id="subtitle165">Duvar inşa edildiğinde<br/>hükûmet doğal olarak</p>
+<p begin="9288028750t" end="9312636666t" region="bottomCenter" style="s1" xml:id="subtitle166">öteki tarafta neler olduğunu<br/>öğrenmek istedi.</p>
+<p begin="9313470832t" end="9338495832t" region="bottomCenter" style="s1" xml:id="subtitle167">O yüzden askerî uydulardan birine</p>
+<p begin="9339330000t" end="9361435416t" region="bottomCenter" style="s1" xml:id="subtitle168">Edinburgh ve Glasgow'u<br/>gözetleme görevi verdiler.</p>
+<p begin="9362269582t" end="9399390000t" region="bottomCenter" style="s1" xml:id="subtitle169">Uydunun 30 yıl boyunca<br/>gönderdiği fotoğraflar</p>
+<p begin="9400641250t" end="9451108332t" region="bottomCenter" style="s1" xml:id="subtitle170">beklenildiği gibiydi.<br/>Boş şehirler, ıssız sokaklar.</p>
+<p begin="9452776666t" end="9487394582t" region="bottomCenter" style="s1" xml:id="subtitle171">Daha doğrusu üç yıl öncesine,<br/>bunları gönderene kadar öyleydi.</p>
+<p begin="9561218332t" end="9572479582t" region="bottomCenter" style="s1" xml:id="subtitle172">İnsanlar.</p>
+<p begin="9576233332t" end="9591248332t" region="bottomCenter" style="s1" xml:id="subtitle173">Glasgow sokaklarında.</p>
+<p begin="9592082500t" end="9615439166t" region="bottomCenter" style="s1" xml:id="subtitle174">-Hayatta kalanlar mı?<br/>-Başka ne olabilir?</p>
+<p begin="9624615000t" end="9657981666t" region="bottomCenter" style="s1" xml:id="subtitle175">Bunlar hayatta kalanlarsa<br/>virüsün tedavisi var demektir.</p>
+<p begin="9659650000t" end="9677584582t" region="bottomCenter" style="s1" xml:id="subtitle176">Onu ele geçirmeliyiz.</p>
+<p begin="9678418750t" end="9701775416t" region="bottomCenter" style="s1" xml:id="subtitle177">Şu anda bir ekip hazır bekliyor.</p>
+<p begin="9713036666t" end="9730971250t" region="bottomCenter" style="s1" xml:id="subtitle178">Sadece onları yönetecek birine<br/>ihtiyacımız var.</p>
+<p begin="9732222500t" end="9756413332t" region="bottomCenter" style="s1" xml:id="subtitle179">Onları götürecek, tedaviyi bulacak</p>
+<p begin="9757247500t" end="9793533750t" region="bottomCenter" style="s1" xml:id="subtitle180">ve çok geç olmadan bize getirecek birine.</p>
+<p begin="9794367916t" end="9821478332t" region="bottomCenter" style="s1" xml:id="subtitle181">Orada hayatta olan<br/>kaç kişi var bilmiyorsunuz.</p>
+<p begin="9824397916t" end="9855679166t" region="bottomCenter" style="s1" xml:id="subtitle182">Ekip onları vaktinde bulamayabilir.<br/>Hatta hiç bulamayabilir.</p>
+<p begin="9856513332t" end="9879035832t" region="bottomCenter" style="s1" xml:id="subtitle183">Ayrıca o insanlar<br/>bulaşıcı hastalık taşıyor olabilir.</p>
+<p begin="9883206666t" end="9903226666t" region="bottomCenter" style="s1" xml:id="subtitle184">Zaten ekip de bunu bulacak.</p>
+<p begin="9904477916t" end="9939095832t" region="bottomCenter" style="s1" xml:id="subtitle185">Orada insan olduğunu<br/>üç yıldır biliyordunuz</p>
+<p begin="9940764166t" end="9958281666t" region="bottomCenter" style="s1" xml:id="subtitle186">ama gizlediniz.</p>
+<p begin="9959115832t" end="9986226250t" region="bottomCenter" style="s1" xml:id="subtitle187">İskoçya öldü ve uzun zaman önce gömüldü.</p>
+<p begin="9987894582t" end="10017090416t" region="bottomCenter" style="s1" xml:id="subtitle188">Dün hayatta kalmış biriyle<br/>18.00 haberlerine çıksaydım</p>
+<p begin="10017924582t" end="10046703332t" region="bottomCenter" style="s1" xml:id="subtitle189">beni en yakın lamba direğine<br/>hayalarımdan asarlardı.</p>
+<p begin="10048371666t" end="10090497082t" region="bottomCenter" style="s1" xml:id="subtitle190">Ama 48 saat içinde hayatta kalan<br/>bir kişi ve tedaviyle gelirsem,</p>
+<p begin="10095085000t" end="10118024582t" region="bottomCenter" style="s1" xml:id="subtitle191">kimse hayatta kalana aldırış etmez</p>
+<p begin="10118858750t" end="10147220416t" region="bottomCenter" style="s1" xml:id="subtitle192">ama tedaviyi buldum diye<br/>kıçımı öpmek için sıraya girerler.</p>
+<p begin="10148054582t" end="10181421250t" region="bottomCenter" style="s1" xml:id="subtitle193">Politikada zamanlama önemlidir<br/>ve zamanımız tükenmek üzere.</p>
+<p begin="10183089582t" end="10198938750t" region="bottomCenter" style="s1" xml:id="subtitle194">48 saatimiz var.</p>
+<p begin="10204777916t" end="10231054166t" region="bottomCenter" style="s1" xml:id="subtitle195">En iyi adamını istiyorum. Hemen.</p>
+<p begin="10254827916t" end="10267340416t" region="bottomCenter" style="s1" xml:id="subtitle196">Peki.</p>
+<p begin="10289028750t" end="10313636666t" region="bottomCenter" style="s1" xml:id="subtitle197">Bu işe uygun birini biliyorum.</p>
+<p begin="10319892916t" end="10342832500t" region="bottomCenter" style="s1" xml:id="subtitle198">İÇ GÜVENLİK BAKANLIĞI</p>
+<p begin="10500907082t" end="10526349166t" region="bottomCenter" style="s1" xml:id="subtitle199">Arabaya bin,<br/>bardaktan boşanırcasına yağıyor.</p>
+<p begin="10630202916t" end="10652308332t" region="bottomCenter" style="s1" xml:id="subtitle200">-Ne zaman öğrenmişler?<br/>-Epey zaman önce.</p>
+<p begin="10653142500t" end="10682338332t" region="bottomCenter" style="s1" xml:id="subtitle201">-Ama şu anda bunun önemi yok.<br/>-Benim için var.</p>
+<p begin="10690680000t" end="10705277916t" region="bottomCenter" style="s1" xml:id="subtitle202">Orada hayatta kalanlar var.</p>
+<p begin="10706112082t" end="10733639582t" region="bottomCenter" style="s1" xml:id="subtitle203">Seni kişisel bir arayışa göndermiyorum.</p>
+<p begin="10734473750t" end="10771177082t" region="bottomCenter" style="s1" xml:id="subtitle204">-Görevine odaklan.<br/>-Arkasında kim var? Hatcher mı?</p>
+<p begin="10772011250t" end="10819141666t" region="bottomCenter" style="s1" xml:id="subtitle205">Hatcher'da çalım ve caka var<br/>ama ipler Canaris'in elinde.</p>
+<p begin="10820392916t" end="10839578750t" region="bottomCenter" style="s1" xml:id="subtitle206">Tahtın arkasındaki güç o.</p>
+<p begin="10842915416t" end="10867523332t" region="bottomCenter" style="s1" xml:id="subtitle207">Kavga etmek isteyeceğin biri de değil.</p>
+<p begin="10868357500t" end="10895050832t" region="bottomCenter" style="s1" xml:id="subtitle208">-Benim mi?<br/>-Ciddiyim.</p>
+<p begin="10901307082t" end="10935925000t" region="bottomCenter" style="s1" xml:id="subtitle209">Gerçekler duyulursa Hatcher, hükûmet</p>
+<p begin="10936759166t" end="10958864582t" region="bottomCenter" style="s1" xml:id="subtitle210">ve bütün sistem yıkılır.</p>
+<p begin="10959698750t" end="10997236250t" region="bottomCenter" style="s1" xml:id="subtitle211">Canaris de buna asla izin vermez.</p>
+<p begin="10998070416t" end="11031020000t" region="bottomCenter" style="s1" xml:id="subtitle212">Duvarın ötesine geçtikten sonra<br/>hiçbir kural,</p>
+<p begin="11032688332t" end="11057713332t" region="bottomCenter" style="s1" xml:id="subtitle213">-hiçbir destek yok.<br/>-Öylesi daha iyi.</p>
+<p begin="11269174582t" end="11288360416t" region="bottomCenter" style="s1" xml:id="subtitle214">Şunu benim için koru, olur mu?</p>
+<p begin="11400972916t" end="11415987916t" region="bottomCenter" style="s1" xml:id="subtitle215">Sigaran var mı?</p>
+<p begin="11419324582t" end="11450605832t" region="bottomCenter" style="s1" xml:id="subtitle216">Helikopterde sigara içilmez,<br/>ben de sigara içmem.</p>
+<p begin="11452274166t" end="11466455000t" region="bottomCenter" style="s1" xml:id="subtitle217">Öyle olsun.</p>
+<p begin="11475630832t" end="11488560416t" region="bottomCenter" style="s1" xml:id="subtitle218">Kapılar kapandığında</p>
+<p begin="11489394582t" end="11525263750t" region="topCenter" style="s1" xml:id="subtitle219">Dr. Marcus Kane,<br/>virüs üzerinde araştırma yapıyordu.</p>
+<p begin="11526097916t" end="11546535000t" region="topCenter" style="s1" xml:id="subtitle220">Sıcak bölgede hapis kaldı.</p>
+<p begin="11547369166t" end="11586157916t" region="bottomCenter" style="s1" xml:id="subtitle221">Laboratuvarı Glasgow'daki<br/>karantina bölgesinin içindeydi.</p>
+<p begin="11591997082t" end="11627866250t" region="bottomCenter" style="s1" xml:id="subtitle222">Bir tedavi geliştirebilecek tek kişi oydu.</p>
+<p begin="11629951666t" end="11669157500t" region="bottomCenter" style="s1" xml:id="subtitle223">Bence laboratuvardan başla.<br/>İzini oradan sür.</p>
+<p begin="11682504166t" end="11715453750t" region="bottomCenter" style="s1" xml:id="subtitle224">Ekibin geri kalanıyla duvarda buluşacaksın</p>
+<p begin="11717956250t" end="11745900832t" region="bottomCenter" style="s1" xml:id="subtitle225">ve iki zırhlı araçla kuzeye gideceksin.</p>
+<p begin="11746735000t" end="11781352916t" region="bottomCenter" style="s1" xml:id="subtitle226">-Niye uçmuyoruz?<br/>-İskoçya uçuşa kapalı bölge.</p>
+<p begin="11782187082t" end="11815553750t" region="bottomCenter" style="s1" xml:id="subtitle227">Hatcher bu işin mümkün olduğunca<br/>dikkat çekmeden yapılmasını istiyor.</p>
+<p begin="11816805000t" end="11853925416t" region="bottomCenter" style="s1" xml:id="subtitle228">Yani başaramazsak<br/>kimse içeri girdiğimizi bilmeyecek.</p>
+<p begin="11863518332t" end="11881870000t" region="bottomCenter" style="s1" xml:id="subtitle229">48 saatiniz var.</p>
+<p begin="11893548332t" end="11931085832t" region="bottomCenter" style="s1" xml:id="subtitle230">Geri dönemezseniz Londra şehri<br/>ve içinde yaşayanlar</p>
+<p begin="11931920000t" end="11951940000t" region="bottomCenter" style="s1" xml:id="subtitle231">ölüme terk edilecek.</p>
+<p begin="11979467500t" end="11996567916t" region="bottomCenter" style="s1" xml:id="subtitle232">Oradaysa bulacağım.</p>
+<p begin="11999487500t" end="12009914582t" region="bottomCenter" style="s1" xml:id="subtitle233">Buna ihtiyacın olacak.</p>
+<p begin="12010748750t" end="12049120416t" region="bottomCenter" style="s1" xml:id="subtitle234">GPS sinyal gönderici.<br/>Yerinizi bize tam olarak gösterecek.</p>
+<p begin="12067889166t" end="12099170416t" region="bottomCenter" style="s1" xml:id="subtitle235">Ekibini almak için<br/>bir savaş helikopteri bekleteceğiz.</p>
+<p begin="12107095000t" end="12125863750t" region="bottomCenter" style="s1" xml:id="subtitle236">Dikkat çekmeme buraya kadarmış.</p>
+<p begin="12141295832t" end="12172994166t" region="bottomCenter" style="s1" xml:id="subtitle237">Tedaviyi getirmişseniz önemi olmayacak.</p>
+<p begin="12199270416t" end="12226380832t" region="bottomCenter" style="s1" xml:id="subtitle238">Orada hiçbir şey bulamazsam ne olacak?</p>
+<p begin="12228883332t" end="12255159582t" region="bottomCenter" style="s1" xml:id="subtitle239">Geri dönme zahmetine girmeyin.</p>
+<p begin="12403641250t" end="12442430000t" region="bottomCenter" style="s1" xml:id="subtitle240"><span style="s1_1">Güvenliğiniz için evlerinize gidin.</span></p>
+<p begin="12448269166t" end="12479967500t" region="bottomCenter" style="s1" xml:id="subtitle241"><span style="s1_1">Doğu Londra'da sıkıyönetim ilan edildi.</span></p>
+<p begin="12624278332t" end="12652640000t" region="bottomCenter" style="s1" xml:id="subtitle242">Ne yapacağız Canaris?</p>
+<p begin="12657645000t" end="12681835832t" region="bottomCenter" style="s1" xml:id="subtitle243">Sakin ol ve dinle.</p>
+<p begin="12683087082t" end="12697267916t" region="bottomCenter" style="s1" xml:id="subtitle244">Sinclair bir mucize eseri</p>
+<p begin="12698102082t" end="12728966250t" region="bottomCenter" style="s1" xml:id="subtitle245">aradığını bulsa ve vaktinde dönse bile</p>
+<p begin="12729800416t" end="12762750000t" region="bottomCenter" style="s1" xml:id="subtitle246">şurası bir gerçek ki bu bizim hatamız,<br/>buna biz neden olduk.</p>
+<p begin="12763584166t" end="12798202082t" region="bottomCenter" style="s1" xml:id="subtitle247">Gettolara o kadar çok insan<br/>kapattık ki kımıldayamıyorlar bile.</p>
+<p begin="12799036250t" end="12836573750t" region="bottomCenter" style="s1" xml:id="subtitle248">Virüs için<br/>kusursuz bir üreme alanı yarattık.</p>
+<p begin="12837407916t" end="12850754582t" region="bottomCenter" style="s1" xml:id="subtitle249">Ne kadar çok insan kurtarırsak da</p>
+<p begin="12851588750t" end="12894548332t" region="bottomCenter" style="s1" xml:id="subtitle250">aynı şeyin tekrarlama ihtimali<br/>o kadar yüksek.</p>
+<p begin="12895382500t" end="12938759166t" region="bottomCenter" style="s1" xml:id="subtitle251">Elimize bir soluklanma fırsatı geçti.</p>
+<p begin="12945432500t" end="12990477500t" region="bottomCenter" style="s1" xml:id="subtitle252">-Ne demek istiyorsun?<br/>-Savaştayız Başbakan.</p>
+<p begin="12997150832t" end="13018422082t" region="bottomCenter" style="s1" xml:id="subtitle253">Temel muharebe triyajı.</p>
+<p begin="13033437082t" end="13052622916t" region="bottomCenter" style="s1" xml:id="subtitle254">Ölenleri ölüme terk et.</p>
+<p begin="13056376666t" end="13072225832t" region="bottomCenter" style="s1" xml:id="subtitle255">Bütün dünya bizi izlerken mi?</p>
+<p begin="13073894166t" end="13122692916t" region="bottomCenter" style="s1" xml:id="subtitle256">Bu kadar büyük bir yalan varken<br/>her şey yanımıza kâr kalır.</p>
+<p begin="13216119582t" end="13258662082t" region="topCenter" style="s1" xml:id="subtitle257">DUVAR - ÜÇ SAAT SONRA</p>
+<p begin="13330400416t" end="13360430416t" region="bottomCenter" style="s1" xml:id="subtitle258">-Binbaşı Sinclair! Uçuş nasıldı?<br/>-İyiydi.</p>
+<p begin="13361264582t" end="13387123750t" region="bottomCenter" style="s1" xml:id="subtitle259">Ben Çavuş Norton.<br/>İnsansız bölgeye hoş geldiniz.</p>
+<p begin="13387957916t" end="13399636250t" region="bottomCenter" style="s1" xml:id="subtitle260">Niye öyle diyorsun?</p>
+<p begin="13400470416t" end="13434671250t" region="bottomCenter" style="s1" xml:id="subtitle261">O duvardan kilometrelerce güneye kadar<br/>bizden başka kimse yok.</p>
+<p begin="13435505416t" end="13448435000t" region="bottomCenter" style="s1" xml:id="subtitle262">Ya nöbetçiler?</p>
+<p begin="13449269166t" end="13480550416t" region="bottomCenter" style="s1" xml:id="subtitle263">Yaklaşık 20 yıl önce bütün sistem<br/>otomasyona geçti.</p>
+<p begin="13481384582t" end="13514334166t" region="bottomCenter" style="s1" xml:id="subtitle264">Bugünlerde sadece yabani hayata<br/>ateş ediyorlar.</p>
+<p begin="13553957082t" end="13599419166t" region="bottomCenter" style="s1" xml:id="subtitle265">İki saat önce bir ekip geldi.<br/>İçeride teçhizatlarını hazırlıyorlar.</p>
+<p begin="13600253332t" end="13634871249t" region="bottomCenter" style="s1" xml:id="subtitle266">Giyinmelerini söyle Çavuş.<br/>Zamana karşı yarışıyoruz.</p>
+<p begin="13635705416t" end="13648634999t" region="bottomCenter" style="s1" xml:id="subtitle267">Peki efendim!</p>
+<p begin="13655308332t" end="13691594582t" region="bottomCenter" style="s1" xml:id="subtitle268">-Ekibe brifing verildi mi?<br/>-Görev emirlerini</p>
+<p begin="13692428749t" end="13714951249t" region="bottomCenter" style="s1" xml:id="subtitle269">ve Dr. Kane hakkında bir dosya verdim.</p>
+<p begin="13715785416t" end="13765835416t" region="bottomCenter" style="s1" xml:id="subtitle270">Binbaşı Sinclair. Ben Chandler.<br/>Zırhlı birlikler. Şoförünüz benim.</p>
+<p begin="13794614166t" end="13816719582t" region="bottomCenter" style="s1" xml:id="subtitle271">Çirkin olabilirler ama çok hızlılar.</p>
+<p begin="13817553749t" end="13842995832t" region="bottomCenter" style="s1" xml:id="subtitle272">Çift V12 motor, beş santimlik zırh,</p>
+<p begin="13843829999t" end="13876362499t" region="bottomCenter" style="s1" xml:id="subtitle273">30 milimetrelik kurşundan, kimyasal<br/>silahlara kadar her şeye dayanır.</p>
+<p begin="13877196666t" end="13903472916t" region="bottomCenter" style="s1" xml:id="subtitle274">-Bu iş için biçilmiş kaftan.<br/>-Bunları nereden buldular?</p>
+<p begin="13904307082t" end="13923075832t" region="bottomCenter" style="s1" xml:id="subtitle275">Duvarın kuzeyindeki sıcak bölgede<br/>devriye geziyorlardı.</p>
+<p begin="13923909999t" end="13953522916t" region="bottomCenter" style="s1" xml:id="subtitle276">Sistem otomasyona geçince<br/>çoğu hurda niyetine satıldı.</p>
+<p begin="13954357082t" end="13967286666t" region="bottomCenter" style="s1" xml:id="subtitle277">Bunlar hizmetteki son iki araç.</p>
+<p begin="13968120832t" end="13989809166t" region="bottomCenter" style="s1" xml:id="subtitle278">Binbaşı, Onbaşı Read'le tanışın.<br/>Tank sürücüsü.</p>
+<p begin="13990643332t" end="14011497499t" region="bottomCenter" style="s1" xml:id="subtitle279">-Binbaşı.<br/>-Devam et Onbaşı.</p>
+<p begin="14019422082t" end="14049869166t" region="bottomCenter" style="s1" xml:id="subtitle280">-Nişancılar. Miller, Carpenter.<br/>-Binbaşı.</p>
+<p begin="14051954582t" end="14061964582t" region="bottomCenter" style="s1" xml:id="subtitle281">Bunlar ne?</p>
+<p begin="14062798749t" end="14099502082t" region="bottomCenter" style="s1" xml:id="subtitle282">Biyo kıyafetler. Muharebe tarzı.<br/>Yüksek çarpma dirençli esnek polimer.</p>
+<p begin="14100336249t" end="14130366249t" region="bottomCenter" style="s1" xml:id="subtitle283">Tam bir hareket serbestliği<br/>ve 24 saat koruma sağlıyor.</p>
+<p begin="14133285832t" end="14151637499t" region="bottomCenter" style="s1" xml:id="subtitle284">Tam ihtiyacımız olan şey.</p>
+<p begin="14155391249t" end="14180833332t" region="bottomCenter" style="s1" xml:id="subtitle285">Prototip, silikon köpüklü el bombası.</p>
+<p begin="14184169999t" end="14216285416t" region="bottomCenter" style="s1" xml:id="subtitle286">-Cephe teçhizatı.<br/>-Canaris'ten güle güle hediyesi.</p>
+<p begin="14218370832t" end="14233802916t" region="bottomCenter" style="s1" xml:id="subtitle287">Çatışma mı bekliyoruz?</p>
+<p begin="14245898332t" end="14266752499t" region="bottomCenter" style="s1" xml:id="subtitle288">-Bu senin için bir sorun mu?<br/>-Hayır.</p>
+<p begin="14270089166t" end="14294279999t" region="bottomCenter" style="s1" xml:id="subtitle289">Kesinlikle sorun değil Binbaşı.</p>
+<p begin="14356425416t" end="14368937916t" region="bottomCenter" style="s1" xml:id="subtitle290">Güzel.</p>
+<p begin="14412731666t" end="14438173749t" region="bottomCenter" style="s1" xml:id="subtitle291">Bunlar da kargomuz.<br/>Doktor Talbot ve Doktor Stirling.</p>
+<p begin="14439007916t" end="14467369582t" region="bottomCenter" style="s1" xml:id="subtitle292">Virüsü incelemek için kurulan<br/>ekipten miydiniz?</p>
+<p begin="14474877082t" end="14499067916t" region="bottomCenter" style="s1" xml:id="subtitle293">Evet. Nasılsınız Binbaşı?</p>
+<p begin="14501987499t" end="14544112916t" region="bottomCenter" style="s1" xml:id="subtitle294">Ben 2024'te başladım.<br/>Stirling 2031'de katıldı.</p>
+<p begin="14544947082t" end="14566218332t" region="bottomCenter" style="s1" xml:id="subtitle295">Ta ki Hatcher üç yıl önce<br/>sonsuz bilgeliğiyle</p>
+<p begin="14567052499t" end="14596665416t" region="bottomCenter" style="s1" xml:id="subtitle296">programı sonlandırana kadar.</p>
+<p begin="14604589999t" end="14638790832t" region="bottomCenter" style="s1" xml:id="subtitle297">Her şeyi denedim tabii ki.<br/>Bir türlü bulamadım.</p>
+<p begin="14673825832t" end="14708026666t" region="bottomCenter" style="s1" xml:id="subtitle298">Umarım bu seyahatiniz,<br/>alınan riske değer Binbaşı.</p>
+<p begin="14708860832t" end="14730966249t" region="bottomCenter" style="s1" xml:id="subtitle299">Anlaşılan biri değdiğini düşünüyor.</p>
+<p begin="14742644582t" end="14757659582t" region="bottomCenter" style="s1" xml:id="subtitle300">Pekâlâ, dinleyin!</p>
+<p begin="14758493749t" end="14800202082t" region="bottomCenter" style="s1" xml:id="subtitle301">Herkes hazırlansın.<br/>On dakika sonra burada olun.</p>
+<p begin="15139707916t" end="15160979166t" region="bottomCenter" style="s1" xml:id="subtitle302">HUZUR İÇİNDE YAT</p>
+<p begin="15301119166t" end="15316134166t" region="bottomCenter" style="s1" xml:id="subtitle303">Kapıyı açın!</p>
+<p begin="15412480416t" end="15424992916t" region="bottomCenter" style="s1" xml:id="subtitle304"><span style="s1_1">Nöbetçi silahları devre dışı bırakıldı.</span></p>
+<p begin="15425827082t" end="15457942499t" region="bottomCenter" style="s1" xml:id="subtitle305">Pekâlâ Chandler. Götür bizi.</p>
+<p begin="16150717916t" end="16167401249t" region="bottomCenter" style="s1" xml:id="subtitle306">-Lanet olsun.<br/>-Chandler, o neydi?</p>
+<p begin="16168235416t" end="16187421249t" region="bottomCenter" style="s1" xml:id="subtitle307"><span style="s1_1">Chandler, niye durdun?</span></p>
+<p begin="16188255416t" end="16203687499t" region="bottomCenter" style="s1" xml:id="subtitle308">-Galiba bir şeye çarptım.<br/>-Binbaşı.</p>
+<p begin="16204521666t" end="16229963749t" region="bottomCenter" style="s1" xml:id="subtitle309"><span style="s1_1">-Tekrar et.</span><br/>-Bence bir baksanız iyi olacak.</p>
+<p begin="16237888332t" end="16260827916t" region="bottomCenter" style="s1" xml:id="subtitle310">Pekâlâ Miller. Giyin ve kontrol et.</p>
+<p begin="16261662082t" end="16280847916t" region="bottomCenter" style="s1" xml:id="subtitle311">-Peki.<br/>-Chandler, işaret ışığı at.</p>
+<p begin="16445178749t" end="16486469999t" region="bottomCenter" style="s1" xml:id="subtitle312"><span style="s1_1">Chandler, siyah beyaz olan </span><br/><span style="s1_1">ve her yere yayılan şey nedir?</span></p>
+<p begin="16492309166t" end="16532349166t" region="bottomCenter" style="s1" xml:id="subtitle313"><span style="s1_1">Araçta bir hasar göremiyorum</span><br/><span style="s1_1">ama senin inek ölmüş.</span></p>
+<p begin="16533183332t" end="16554037499t" region="bottomCenter" style="s1" xml:id="subtitle314">-Mö.<br/>-Pekâlâ, geri gel.</p>
+<p begin="16707524166t" end="16733383332t" region="bottomCenter" style="s1" xml:id="subtitle315">Bu dosya 25 yıldır kapalıymış.</p>
+<p begin="16736302916t" end="16779262499t" region="bottomCenter" style="s1" xml:id="subtitle316">Hükûmet sıcak bölgeden bilgi çıkmasını<br/>bastırmaya çalışmış.</p>
+<p begin="16785518749t" end="16819302499t" region="bottomCenter" style="s1" xml:id="subtitle317">Orada işlerin ne kadar kötüye gittiğinin<br/>bilinmesini istememişler.</p>
+<p begin="16832649166t" end="16864764582t" region="bottomCenter" style="s1" xml:id="subtitle318"><span style="s1_1">Burada daha fazla </span><br/><span style="s1_1">kalabileceğimizi sanmıyorum.</span></p>
+<p begin="16866015832t" end="16899799582t" region="bottomCenter" style="s1" xml:id="subtitle319"><span style="s1_1">Bu insanlarda ahlak kalmadı. Öldürmeler...</span></p>
+<p begin="16900633749t" end="16927327082t" region="bottomCenter" style="s1" xml:id="subtitle320">Görünüşe göre orada mahsur kalmış<br/>bir avuç askerle direnmiş,</p>
+<p begin="16928161249t" end="16946512916t" region="bottomCenter" style="s1" xml:id="subtitle321">hastaneyi ellerinden geldiğince<br/>tahkim etmiş,</p>
+<p begin="16947347082t" end="16988221249t" region="bottomCenter" style="s1" xml:id="subtitle322">elektrikleri tükenene kadar da<br/>ordu frekansından düzenli olarak</p>
+<p begin="16989055416t" end="17008241249t" region="bottomCenter" style="s1" xml:id="subtitle323">rapor yollamışlar.</p>
+<p begin="17009075416t" end="17042024999t" region="bottomCenter" style="s1" xml:id="subtitle324"><span style="s1_1">Yangınlar yayılıyor, </span><br/><span style="s1_1">elektrik kaynağımız azalıyor,</span></p>
+<p begin="17043693332t" end="17076642916t" region="bottomCenter" style="s1" xml:id="subtitle325"><span style="s1_1">suyumuz ve yiyeceğimiz hızla tükeniyor.</span></p>
+<p begin="17084150416t" end="17129612499t" region="bottomCenter" style="s1" xml:id="subtitle326"><span style="s1_1">Akşamları acı ve ıstırap </span><br/><span style="s1_1">çığlıklarını duyabiliyoruz.</span></p>
+<p begin="17130446666t" end="17163813332t" region="bottomCenter" style="s1" xml:id="subtitle327"><span style="s1_1">Birbirlerini yemeye başladılar.</span></p>
+<p begin="17164647499t" end="17186335832t" region="bottomCenter" style="s1" xml:id="subtitle328"><span style="s1_1">Dışarıda tam bir ilkellik var.</span></p>
+<p begin="17195928750t" end="17214280416t" region="bottomCenter" style="s1" xml:id="subtitle329"><span style="s1_1">Cephanemiz az.</span></p>
+<p begin="17220119582t" end="17253903332t" region="bottomCenter" style="s1" xml:id="subtitle330"><span style="s1_1">Barikatlar daha fazla dayanmaz.</span></p>
+<p begin="17258491250t" end="17278511250t" region="bottomCenter" style="s1" xml:id="subtitle331"><span style="s1_1">Vaktimiz kalmadı.</span></p>
+<p begin="17285184582t" end="17319385416t" region="bottomCenter" style="s1" xml:id="subtitle332"><span style="s1_1">Ben Dr. Marcus Kane, kapatıyorum.</span></p>
+<p begin="17394877500t" end="17406972916t" region="bottomCenter" style="s1" xml:id="subtitle333">Bu sayıların anlamı ne?</p>
+<p begin="17407807082t" end="17434083332t" region="topCenter" style="s1" xml:id="subtitle334">Her evde kurtarılmayı bekleyen<br/>insanların sayısı.</p>
+<p begin="17434917500t" end="17472037916t" region="bottomCenter" style="s1" xml:id="subtitle335">Evlerinden çıkmamaları,<br/>yardımın geleceği söylenmiş.</p>
+<p begin="17623856250t" end="17645544582t" region="bottomCenter" style="s1" xml:id="subtitle336">DİKKAT<br/>REAPER VİRÜSÜ</p>
+<p begin="17646378750t" end="17666398750t" region="bottomCenter" style="s1" xml:id="subtitle337">KARANTİNA BÖLGESİNE GİRİYORSUNUZ</p>
+<p begin="18101416666t" end="18113512082t" region="bottomCenter" style="s1" xml:id="subtitle338">Temiz.</p>
+<p begin="18352917916t" end="18368767082t" region="bottomCenter" style="s1" xml:id="subtitle339">ST. ANDREWS HASTANESİ</p>
+<p begin="18484716250t" end="18496811666t" region="bottomCenter" style="s1" xml:id="subtitle340">Geri çekil.</p>
+<p begin="18822553750t" end="18842156666t" region="bottomCenter" style="s1" xml:id="subtitle341">Pekâlâ, gözünüzü dört açın.</p>
+<p begin="19189587082t" end="19203767916t" region="bottomCenter" style="s1" xml:id="subtitle342">Temiz.</p>
+<p begin="19335566250t" end="19366430416t" region="bottomCenter" style="s1" xml:id="subtitle343">VİRAL ARAŞTIRMA</p>
+<p begin="19392289582t" end="19426490416t" region="bottomCenter" style="s1" xml:id="subtitle344"><span style="s1_1">Read, Fresno, beşinci kattayız,</span><br/><span style="s1_1">içeri giriyoruz.</span></p>
+<p begin="19430661250t" end="19452766666t" region="bottomCenter" style="s1" xml:id="subtitle345">Anlaşıldı, burada her şey sakin.</p>
+<p begin="19483630832t" end="19503233750t" region="bottomCenter" style="s1" xml:id="subtitle346">Galiba televizyon bozulmuş.</p>
+<p begin="19750147082t" end="19765996250t" region="bottomCenter" style="s1" xml:id="subtitle347">DEKONTAMİNASYON BÖLGESİ</p>
+<p begin="19773920832t" end="19798111666t" region="bottomCenter" style="s1" xml:id="subtitle348">Talbot, Stirling. Girin.</p>
+<p begin="19813126666t" end="19844407916t" region="bottomCenter" style="s1" xml:id="subtitle349">Bu dağınıklıkta hiçbir şey bulunmaz.</p>
+<p begin="19845242082t" end="19855252082t" region="bottomCenter" style="s1" xml:id="subtitle350">Aramaya devam et.</p>
+<p begin="19856086250t" end="19885699166t" region="bottomCenter" style="s1" xml:id="subtitle351">Ne aradığımızı bilseydik iyi olurdu.</p>
+<p begin="19889870000t" end="19932829582t" region="bottomCenter" style="s1" xml:id="subtitle352">Kane'in çalışmalarından<br/>herhangi bir şey görürsem tanırım.</p>
+<p begin="19937417500t" end="19961608332t" region="bottomCenter" style="s1" xml:id="subtitle353">Teşekkürler. Bu çok yardımcı oldu.</p>
+<p begin="19962442500t" end="19979960000t" region="bottomCenter" style="s1" xml:id="subtitle354">Kes sesini Carpenter.</p>
+<p begin="20281511250t" end="20310290000t" region="bottomCenter" style="s1" xml:id="subtitle355">Binbaşı! Canlı biri var!</p>
+<p begin="20311124166t" end="20340320000t" region="bottomCenter" style="s1" xml:id="subtitle356">-Chandler, anlamadım! Tekrar et!<br/><span style="s1_1">-Burada bir kız var!</span></p>
+<p begin="20341154166t" end="20353249582t" region="bottomCenter" style="s1" xml:id="subtitle357">Sokakta!</p>
+<p begin="20354083750t" end="20372018332t" region="bottomCenter" style="s1" xml:id="subtitle358">Ne yaparsanız yapın sakın ona dokunmayın!</p>
+<p begin="20372852500t" end="20392038332t" region="bottomCenter" style="s1" xml:id="subtitle359">Chandler, kızı gözden kaçırma<br/>ama yaklaşma.</p>
+<p begin="20392872500t" end="20414977916t" region="bottomCenter" style="s1" xml:id="subtitle360">Tekrar ediyorum, ona yaklaşma.</p>
+<p begin="20420400000t" end="20433746666t" region="bottomCenter" style="s1" xml:id="subtitle361">Chandler! Ne yapıyorsun?</p>
+<p begin="20434580832t" end="20455017916t" region="bottomCenter" style="s1" xml:id="subtitle362">Sinclair'i duydun! Hemen içeri gir!</p>
+<p begin="20455852082t" end="20479625832t" region="bottomCenter" style="s1" xml:id="subtitle363">-Yardıma ihtiyacı var Read, baksana!<br/>-Chandler, hayır!</p>
+<p begin="20480460000t" end="20515495000t" region="bottomCenter" style="s1" xml:id="subtitle364">Fresno, kıllı kıçını kaldırıp araca bin.</p>
+<p begin="20516329166t" end="20556369166t" region="bottomCenter" style="s1" xml:id="subtitle365">Hey. Korkma. Her şey yoluna girecek.</p>
+<p begin="20565127916t" end="20598077500t" region="bottomCenter" style="s1" xml:id="subtitle366">-Chandler! Duyuyor musun?<br/>-Yaşıyor Binbaşı ama ölmek üzere.</p>
+<p begin="20599328750t" end="20619348750t" region="bottomCenter" style="s1" xml:id="subtitle367">Binbaşı, incelememiz için<br/>onu izole etmek lazım.</p>
+<p begin="20620182916t" end="20632278332t" region="bottomCenter" style="s1" xml:id="subtitle368">Peki, kızı araca alalım.</p>
+<p begin="20633112500t" end="20673569582t" region="bottomCenter" style="s1" xml:id="subtitle369">-Bu laboratuvara dokunulmamış.<br/>-Kontrol et. Hemen arkandayız.</p>
+<p begin="20728624582t" end="20749478750t" region="bottomCenter" style="s1" xml:id="subtitle370">-Talbot, hemen yere yat!<br/>-Tanrım!</p>
+<p begin="20830392916t" end="20842071250t" region="bottomCenter" style="s1" xml:id="subtitle371">Lanet olsun!</p>
+<p begin="21046859166t" end="21077306250t" region="bottomCenter" style="s1" xml:id="subtitle372">-Read, acil tahliye! Şimdi!<br/>-Anlaşıldı!</p>
+<p begin="21120265832t" end="21150295832t" region="bottomCenter" style="s1" xml:id="subtitle373">-Stirling'e ulaştım.<br/>-Fenerim nerede?</p>
+<p begin="21151130000t" end="21174903750t" region="bottomCenter" style="s1" xml:id="subtitle374">Binbaşı! Arka kapıya gidiyorum!</p>
+<p begin="21264576666t" end="21275420832t" region="bottomCenter" style="s1" xml:id="subtitle375">Lanet olsun!</p>
+<p begin="21276255000t" end="21317546250t" region="bottomCenter" style="s1" xml:id="subtitle376">-Chandler, derhâl lanet araca gir!<br/>-Peki, gidiyorum!</p>
+<p begin="21444339582t" end="21463942500t" region="bottomCenter" style="s1" xml:id="subtitle377">Kahretsin!</p>
+<p begin="21509821666t" end="21523168332t" region="bottomCenter" style="s1" xml:id="subtitle378">Gidiyoruz!</p>
+<p begin="21748393332t" end="21766327916t" region="bottomCenter" style="s1" xml:id="subtitle379">O taraftan çıkmıyoruz!</p>
+<p begin="21809704582t" end="21822634166t" region="bottomCenter" style="s1" xml:id="subtitle380">Tanrım!</p>
+<p begin="21823468332t" end="21843905416t" region="bottomCenter" style="s1" xml:id="subtitle381">Yanın pislikler!</p>
+<p begin="21860588750t" end="21872684166t" region="bottomCenter" style="s1" xml:id="subtitle382">Lanet olsun!</p>
+<p begin="21911055832t" end="21944422500t" region="bottomCenter" style="s1" xml:id="subtitle383">-Chandler, yanıyorsun!<br/>-Bilmediğimi mi sanıyorsun?</p>
+<p begin="21951512916t" end="21987382082t" region="bottomCenter" style="s1" xml:id="subtitle384">Binbaşı, saldırıya uğradık!<br/>Tekrar ediyorum, saldırıya uğradık!</p>
+<p begin="22264325416t" end="22277672082t" region="bottomCenter" style="s1" xml:id="subtitle385">Alçaklar!</p>
+<p begin="22750227500t" end="22767745000t" region="bottomCenter" style="s1" xml:id="subtitle386">APC 1 havaya uçtu!</p>
+<p begin="22802780000t" end="22813624166t" region="bottomCenter" style="s1" xml:id="subtitle387">Lanet olsun!</p>
+<p begin="22830724582t" end="22857000832t" region="bottomCenter" style="s1" xml:id="subtitle388">Tekrar ediyorum, APC 1 havaya uçtu!<br/>Chandler'ı kaybettik!</p>
+<p begin="22857835000t" end="22877855000t" region="bottomCenter" style="s1" xml:id="subtitle389">-Lanet olsun!<br/>-Asansöre, alt kata iniyoruz.</p>
+<p begin="22878689166t" end="22900377500t" region="bottomCenter" style="s1" xml:id="subtitle390">-Gir.<br/>-Çalışmaz, elektrik yok!</p>
+<p begin="22901211666t" end="22923734166t" region="bottomCenter" style="s1" xml:id="subtitle391">Gir içeri! Çabuk!</p>
+<p begin="22924568332t" end="22948342082t" region="bottomCenter" style="s1" xml:id="subtitle392">-Çavuş! Koru beni!<br/>-Anlaşıldı!</p>
+<p begin="22991301666t" end="23025919582t" region="bottomCenter" style="s1" xml:id="subtitle393">-Miller, köpük bombası.<br/>-Bu plan her neyse...</p>
+<p begin="23030924582t" end="23045522500t" region="bottomCenter" style="s1" xml:id="subtitle394">-...acele edin!<br/>-Tüfek!</p>
+<p begin="23046356666t" end="23062205832t" region="bottomCenter" style="s1" xml:id="subtitle395">Binbaşı, burada ne yapıyoruz?</p>
+<p begin="23063040000t" end="23089733332t" region="bottomCenter" style="s1" xml:id="subtitle396">Aşağı gidiyoruz! Şimdi çek!</p>
+<p begin="23353747082t" end="23387530832t" region="bottomCenter" style="s1" xml:id="subtitle397">Binbaşı, siz çıldırmışsınız!</p>
+<p begin="23413807082t" end="23445505416t" region="bottomCenter" style="s1" xml:id="subtitle398">-Lanet olsun!<br/>-Köşeleri kontrol edin.</p>
+<p begin="23508067916t" end="23542685832t" region="bottomCenter" style="s1" xml:id="subtitle399">Kımıldayın! Miller, aç şu kapağı!</p>
+<p begin="23606082500t" end="23617760832t" region="bottomCenter" style="s1" xml:id="subtitle400">Lanet olsun!</p>
+<p begin="23636112500t" end="23656966666t" region="bottomCenter" style="s1" xml:id="subtitle401">Girin! Hemen gitmemiz lazım!</p>
+<p begin="23774584166t" end="23799609166t" region="bottomCenter" style="s1" xml:id="subtitle402">Çabuk ol Read! Hadi!</p>
+<p begin="23904297082t" end="23918477916t" region="bottomCenter" style="s1" xml:id="subtitle403">Yaralanan var mı? Herkes iyi mi?</p>
+<p begin="23919312082t" end="23929322082t" region="bottomCenter" style="s1" xml:id="subtitle404">-Ben iyiyim.<br/>-İyiyim.</p>
+<p begin="23930156250t" end="23949342082t" region="bottomCenter" style="s1" xml:id="subtitle405">Orada ne oldu öyle?</p>
+<p begin="23989799166t" end="24011904582t" region="bottomCenter" style="s1" xml:id="subtitle406">Read çarpma uyarıları alıyor.</p>
+<p begin="24060286250t" end="24082808750t" region="bottomCenter" style="s1" xml:id="subtitle407">-Read!<br/>-Aracı durdur!</p>
+<p begin="24089482082t" end="24106999582t" region="bottomCenter" style="s1" xml:id="subtitle408">Read! Dikkat et!</p>
+<p begin="24290516250t" end="24308867916t" region="bottomCenter" style="s1" xml:id="subtitle409">-Stirling, iyi misin?<br/>-İyiyim.</p>
+<p begin="24309702082t" end="24327219582t" region="bottomCenter" style="s1" xml:id="subtitle410">Ben değilim!</p>
+<p begin="24343485832t" end="24361003332t" region="bottomCenter" style="s1" xml:id="subtitle411">-Ya Read?<br/>-Öldü!</p>
+<p begin="24362254582t" end="24376435416t" region="bottomCenter" style="s1" xml:id="subtitle412">Lanet olsun! Kahretsin!</p>
+<p begin="24377269582t" end="24401043332t" region="bottomCenter" style="s1" xml:id="subtitle413">Pekâlâ, ne alabiliyorsanız alın ve çıkın!</p>
+<p begin="24845237082t" end="24872764582t" region="bottomCenter" style="s1" xml:id="subtitle414">-Miller, Norton'ı koru!<br/>-Koruma ateşi!</p>
+<p begin="24879020832t" end="24912387500t" region="bottomCenter" style="s1" xml:id="subtitle415">-Dur, turnike.<br/>-Yapıyorum!</p>
+<p begin="24914055832t" end="24934492916t" region="bottomCenter" style="s1" xml:id="subtitle416">-Norton, sokak!<br/>-Anlaşıldı!</p>
+<p begin="24946171250t" end="24974950000t" region="bottomCenter" style="s1" xml:id="subtitle417">-Stirling, onunla git!<br/>-Yardımıma ihtiyacı var.</p>
+<p begin="24978286666t" end="24999975000t" region="bottomCenter" style="s1" xml:id="subtitle418">-Buraya gel! Çabuk!<br/>-Hadi!</p>
+<p begin="25004145832t" end="25028336666t" region="bottomCenter" style="s1" xml:id="subtitle419">-Arkama geç!<br/>-Miller! Talbot'ı al!</p>
+<p begin="25029170832t" end="25046688332t" region="bottomCenter" style="s1" xml:id="subtitle420">Lanet olsun! Binbaşı, gidin!</p>
+<p begin="25057532500t" end="25075050000t" region="bottomCenter" style="s1" xml:id="subtitle421">Binbaşı, gidin!</p>
+<p begin="25158883750t" end="25179320832t" region="bottomCenter" style="s1" xml:id="subtitle422">Gelin bakalım alçaklar!</p>
+<p begin="25245637082t" end="25257732500t" region="bottomCenter" style="s1" xml:id="subtitle423">Lanet olsun!</p>
+<p begin="25275667082t" end="25289013750t" region="bottomCenter" style="s1" xml:id="subtitle424">Kurşunum bitti!</p>
+<p begin="25314038750t" end="25349490832t" region="bottomCenter" style="s1" xml:id="subtitle425">-Çek ellerini üstümden!<br/>-Talbot! Onu bırakamayız.</p>
+<p begin="25351159166t" end="25365340000t" region="bottomCenter" style="s1" xml:id="subtitle426">Koş!</p>
+<p begin="25373681666t" end="25387445416t" region="bottomCenter" style="s1" xml:id="subtitle427">Çabuk!</p>
+<p begin="25401626250t" end="25414138750t" region="bottomCenter" style="s1" xml:id="subtitle428">Vahşiler!</p>
+<p begin="25671479166t" end="25684825832t" region="bottomCenter" style="s1" xml:id="subtitle429">Bu Sol için.</p>
+<p begin="26109833750t" end="26122763332t" region="bottomCenter" style="s1" xml:id="subtitle430">Lanet olsun.</p>
+<p begin="26154461666t" end="26187411250t" region="bottomCenter" style="s1" xml:id="subtitle431">Özür dilerim. Çok özür dilerim.</p>
+<p begin="26200340832t" end="26242049166t" region="bottomCenter" style="s1" xml:id="subtitle432">Kendimi biraz kaptırmışım.<br/>Ama böyle yapmaya devam edersen...</p>
+<p begin="26298355416t" end="26326717082t" region="bottomCenter" style="s1" xml:id="subtitle433">Gördün mü? Yine başladım.</p>
+<p begin="26340480832t" end="26369676666t" region="bottomCenter" style="s1" xml:id="subtitle434">Özür dilerim. Çok özür dilerim.</p>
+<p begin="26377184166t" end="26407631250t" region="bottomCenter" style="s1" xml:id="subtitle435">Ama beni çok kızdırıyorsun!</p>
+<p begin="26413470416t" end="26430570832t" region="bottomCenter" style="s1" xml:id="subtitle436">Konuş.</p>
+<p begin="26459766666t" end="26470610832t" region="bottomCenter" style="s1" xml:id="subtitle437">Kimsin sen?</p>
+<p begin="26471445000t" end="26510650832t" region="bottomCenter" style="s1" xml:id="subtitle438">Neyin var senin? Acıdan zevk mi alıyorsun?</p>
+<p begin="26513987500t" end="26543600416t" region="bottomCenter" style="s1" xml:id="subtitle439">Çünkü acı çekmek istiyorsun!</p>
+<p begin="26795518750t" end="26840563750t" region="bottomCenter" style="s1" xml:id="subtitle440">Bir daha deneyelim. Kimsiniz?<br/>Nereden geldiniz?</p>
+<p begin="26844734582t" end="26868508332t" region="bottomCenter" style="s1" xml:id="subtitle441">Sizi Kane'in göndermediğini biliyorum,<br/>kim gönderdi?</p>
+<p begin="26869342500t" end="26913970416t" region="bottomCenter" style="s1" xml:id="subtitle442">O gelişmiş teçhizatı nereden buldunuz?<br/>Tankları, silahları.</p>
+<p begin="26928151249t" end="26946919999t" region="bottomCenter" style="s1" xml:id="subtitle443">Konuş!</p>
+<p begin="26967357082t" end="26983623332t" region="bottomCenter" style="s1" xml:id="subtitle444">Kane mi dedin?</p>
+<p begin="26986542916t" end="27014487499t" region="bottomCenter" style="s1" xml:id="subtitle445">Daha yüksek sesle mi konuşayım?<br/>İstediğin bu mu?</p>
+<p begin="27026165832t" end="27038678332t" region="bottomCenter" style="s1" xml:id="subtitle446">Peki, bu nasıl?</p>
+<p begin="27080386666t" end="27093733332t" region="bottomCenter" style="s1" xml:id="subtitle447">Lanet olsun!</p>
+<p begin="27170893749t" end="27185908749t" region="bottomCenter" style="s1" xml:id="subtitle448">Duvarın öte tarafından geldik.</p>
+<p begin="27210516666t" end="27225114582t" region="bottomCenter" style="s1" xml:id="subtitle449">Biliyordum.</p>
+<p begin="27231787916t" end="27265154582t" region="bottomCenter" style="s1" xml:id="subtitle450">Biliyordum! Yalan söylediğini biliyordum!</p>
+<p begin="27265988749t" end="27289345416t" region="bottomCenter" style="s1" xml:id="subtitle451">-Kim yalan söyledi?<br/>-Kane!</p>
+<p begin="27305194582t" end="27341063749t" region="bottomCenter" style="s1" xml:id="subtitle452">Orospu çocuğu bize orada<br/>hiçbir şeyin olmadığını söylüyordu.</p>
+<p begin="27345234582t" end="27364837499t" region="bottomCenter" style="s1" xml:id="subtitle453">Kurtuluş umudu olmadığını söyledi.</p>
+<p begin="27366922916t" end="27380686666t" region="bottomCenter" style="s1" xml:id="subtitle454">Ama ben biliyordum.</p>
+<p begin="27383189166t" end="27419058332t" region="bottomCenter" style="s1" xml:id="subtitle455">Bir gün birinin gelip onun yanıldığını<br/>kanıtlayacağını biliyordum.</p>
+<p begin="27432822082t" end="27473279166t" region="bottomCenter" style="s1" xml:id="subtitle456">Kane hayattaysa onu bulmam lazım.</p>
+<p begin="27502057916t" end="27535424582t" region="bottomCenter" style="s1" xml:id="subtitle457">Çeneni yorma. Artık bizimsiniz.</p>
+<p begin="27537927082t" end="27561700832t" region="bottomCenter" style="s1" xml:id="subtitle458">Ve size ihtiyacımız olduğu sürece<br/>hayatta kalacaksınız!</p>
+<p begin="27581303749t" end="27600906666t" region="bottomCenter" style="s1" xml:id="subtitle459">Duvarın arkasından geldiyseniz,</p>
+<p begin="27605077499t" end="27627599999t" region="bottomCenter" style="s1" xml:id="subtitle460">geri dönmeyi planlıyorsunuz demektir.</p>
+<p begin="27640946666t" end="27667222916t" region="bottomCenter" style="s1" xml:id="subtitle461">Biz denedik ama başarısız olduk.</p>
+<p begin="27669308332t" end="27700172499t" region="bottomCenter" style="s1" xml:id="subtitle462">Birçok arkadaşımın o kapılara koştuğunu</p>
+<p begin="27702257916t" end="27741463749t" region="bottomCenter" style="s1" xml:id="subtitle463">ama daha yaklaşamadan yandıklarını</p>
+<p begin="27748971249t" end="27766488749t" region="bottomCenter" style="s1" xml:id="subtitle464">ve küle döndüklerini gördüm.</p>
+<p begin="27782754999t" end="27848237082t" region="bottomCenter" style="s1" xml:id="subtitle465">Ama sen bize yolu göstereceksin,<br/>biz de sonuna kadar gideceğiz.</p>
+<p begin="27854076249t" end="27893699166t" region="bottomCenter" style="s1" xml:id="subtitle466">Bayan, seni şimdi hemen yiyebilirim.</p>
+<p begin="27979618332t" end="28003809166t" region="bottomCenter" style="s1" xml:id="subtitle467">O Kane alçağını unut!</p>
+<p begin="28007145832t" end="28018824166t" region="bottomCenter" style="s1" xml:id="subtitle468">O tarih oldu.</p>
+<p begin="28026748749t" end="28081386666t" region="bottomCenter" style="s1" xml:id="subtitle469">Ama sen vadedilen topraklara<br/>bizi götürecek pasaportumuzsun.</p>
+<p begin="28102240832t" end="28130602499t" region="bottomCenter" style="s1" xml:id="subtitle470">Bence çok pişman olacaksın.</p>
+<p begin="28131436666t" end="28146868749t" region="bottomCenter" style="s1" xml:id="subtitle471">Ona ben karar veririm.</p>
+<p begin="28180652499t" end="28196084582t" region="bottomCenter" style="s1" xml:id="subtitle472">Duyuyor musun?</p>
+<p begin="28205260416t" end="28231953749t" region="bottomCenter" style="s1" xml:id="subtitle473">Köpekler acıktı!</p>
+<p begin="28238627082t" end="28275330416t" region="bottomCenter" style="s1" xml:id="subtitle474">Hayvanat bahçesinde beslenme vakti!</p>
+<p begin="28357912916t" end="28395450416t" region="bottomCenter" style="s1" xml:id="subtitle475">O bize canlı lazım.<br/>Ona bir şey olmasın, tamam mı?</p>
+<p begin="28460932499t" end="28475113332t" region="bottomCenter" style="s1" xml:id="subtitle476">Güzel saat.</p>
+<p begin="28769157082t" end="28797101666t" region="bottomCenter" style="s1" xml:id="subtitle477">Sol! Dediklerini duydum.<br/>Seninle konuşmam lazım!</p>
+<p begin="28797935832t" end="28827965832t" region="bottomCenter" style="s1" xml:id="subtitle478">-Senin de sıran gelecek!<br/>-Sol!</p>
+<p begin="28828799999t" end="28866337499t" region="bottomCenter" style="s1" xml:id="subtitle479">Değişim rüzgârı kasırga oldu!</p>
+<p begin="28871759582t" end="28888859999t" region="bottomCenter" style="s1" xml:id="subtitle480">Göster günlerini!</p>
+<p begin="28900955416t" end="28923060832t" region="bottomCenter" style="s1" xml:id="subtitle481">Hayır!</p>
+<p begin="29265903332t" end="29308862916t" region="bottomCenter" style="s1" xml:id="subtitle482"><span style="s1_1">Bayanlar ve baylar! İşte geldi, şef,</span></p>
+<p begin="29309697082t" end="29345983332t" region="bottomCenter" style="s1" xml:id="subtitle483"><span style="s1_1">önemli kişi, hayatınızın ışığı!</span></p>
+<p begin="29346817499t" end="29373093749t" region="bottomCenter" style="s1" xml:id="subtitle484"><span style="s1_1">Sol!</span></p>
+<p begin="30285672082t" end="30323209582t" region="bottomCenter" style="s1" xml:id="subtitle485"><span style="s1_1">Bayanlar ve baylar!</span></p>
+<p begin="30366169166t" end="30403289582t" region="bottomCenter" style="s1" xml:id="subtitle486"><span style="s1_1">Sizlere eşsiz bir ziyafetim var!</span></p>
+<p begin="30461681249t" end="30492962499t" region="bottomCenter" style="s1" xml:id="subtitle487"><span style="s1_1">Az pişmiş!</span></p>
+<p begin="30536339166t" end="30573459582t" region="bottomCenter" style="s1" xml:id="subtitle488"><span style="s1_1">Kane bize ne yapmamız gerektiğini söyledi,</span></p>
+<p begin="30574710832t" end="30597233332t" region="bottomCenter" style="s1" xml:id="subtitle489"><span style="s1_1">biz de ona,</span></p>
+<p begin="30600569999t" end="30618087499t" region="bottomCenter" style="s1" xml:id="subtitle490"><span style="s1_1">"Canın cehenneme!" dedik.</span></p>
+<p begin="30618921666t" end="30636856249t" region="bottomCenter" style="s1" xml:id="subtitle491">Canın cehenneme!</p>
+<p begin="30691494166t" end="30723192499t" region="bottomCenter" style="s1" xml:id="subtitle492"><span style="s1_1">Bu bizim şehrimiz!</span></p>
+<p begin="30752805416t" end="30793262499t" region="bottomCenter" style="s1" xml:id="subtitle493"><span style="s1_1">Buraya kimi yollarlarsa yollasınlar</span><br/><span style="s1_1">onları yakalayacağız!</span></p>
+<p begin="30818704582t" end="30838307499t" region="bottomCenter" style="s1" xml:id="subtitle494"><span style="s1_1">Onları pişireceğiz!</span></p>
+<p begin="30852905416t" end="30874593749t" region="bottomCenter" style="s1" xml:id="subtitle495"><span style="s1_1">Sonra da yiyeceğiz!</span></p>
+<p begin="30913799582t" end="30929648749t" region="bottomCenter" style="s1" xml:id="subtitle496">Ye onları!</p>
+<p begin="31132768332t" end="31164466666t" region="bottomCenter" style="s1" xml:id="subtitle497"><span style="s1_1">Başlıyoruz!</span></p>
+<p begin="31684986666t" end="31709594582t" region="bottomCenter" style="s1" xml:id="subtitle498">Hayır!</p>
+<p begin="31741709999t" end="31760061666t" region="bottomCenter" style="s1" xml:id="subtitle499">AZ PİŞMİŞ - ORTA - GEVREK</p>
+<p begin="31762981249t" end="31781332916t" region="bottomCenter" style="s1" xml:id="subtitle500">Yak onu!</p>
+<p begin="31798850416t" end="31827629166t" region="bottomCenter" style="s1" xml:id="subtitle501">Lütfen! Hayır!</p>
+<p begin="31884352499t" end="31896447916t" region="bottomCenter" style="s1" xml:id="subtitle502">Bırakın!</p>
+<p begin="32042844166t" end="32057442082t" region="bottomCenter" style="s1" xml:id="subtitle503">Kaltak!</p>
+<p begin="32859910416t" end="32869920416t" region="bottomCenter" style="s1" xml:id="subtitle504">Evet!</p>
+<p begin="33139356249t" end="33171471666t" region="bottomCenter" style="s1" xml:id="subtitle505">Karnın açsa arkadaşından bir parça ye.</p>
+<p begin="33204838332t" end="33216933749t" region="bottomCenter" style="s1" xml:id="subtitle506">Hey!</p>
+<p begin="33256139582t" end="33274908332t" region="bottomCenter" style="s1" xml:id="subtitle507">Bir içecek alabilmek için ne yapmam lazım?</p>
+<p begin="33330797499t" end="33367083749t" region="bottomCenter" style="s1" xml:id="subtitle508">Anahtarı kilide sok ve yavaşça çevir.</p>
+<p begin="33521404582t" end="33542258749t" region="bottomCenter" style="s1" xml:id="subtitle509">Çok acımadı, değil mi?</p>
+<p begin="33747463749t" end="33770403332t" region="bottomCenter" style="s1" xml:id="subtitle510">Dur! Beni buradan çıkar,<br/>yardım edebilirim.</p>
+<p begin="33785001249t" end="33799599166t" region="bottomCenter" style="s1" xml:id="subtitle511">Yardım edebilir misin?</p>
+<p begin="33809192082t" end="33822955832t" region="bottomCenter" style="s1" xml:id="subtitle512">Neden? Ne vereceksin?</p>
+<p begin="33825041249t" end="33840056249t" region="bottomCenter" style="s1" xml:id="subtitle513">Sol'la konuşmanı duydum.</p>
+<p begin="33856322499t" end="33874674166t" region="bottomCenter" style="s1" xml:id="subtitle514">Duvarın arkasından<br/>geldiğinizi söylüyordun.</p>
+<p begin="33895945416t" end="33922221666t" region="bottomCenter" style="s1" xml:id="subtitle515">Hayır. Lütfen. Beni burada bırakma!<br/>Beni öldürecek!</p>
+<p begin="33924724166t" end="33943075832t" region="bottomCenter" style="s1" xml:id="subtitle516">Bundan daha iyi bir şey söylemelisin.</p>
+<p begin="33947246666t" end="33962678749t" region="bottomCenter" style="s1" xml:id="subtitle517">Kane'i bulmana yardım edebilirm.</p>
+<p begin="34022321666t" end="34057356666t" region="bottomCenter" style="s1" xml:id="subtitle518">-Kane nerede biliyor musun?<br/>-Herhâlde. O benim babam.</p>
+<p begin="34076125416t" end="34094894166t" region="bottomCenter" style="s1" xml:id="subtitle519">Yalan söylediğini anlarsam</p>
+<p begin="34103235832t" end="34119919166t" region="bottomCenter" style="s1" xml:id="subtitle520">keşke seni burada bıraksaymışım dersin.</p>
+<p begin="34134517082t" end="34162461666t" region="bottomCenter" style="s1" xml:id="subtitle521">Beni takip et ve sesini çıkarma.</p>
+<p begin="34189572082t" end="34201667499t" region="bottomCenter" style="s1" xml:id="subtitle522">Dikkat!</p>
+<p begin="34674640000t" end="34691323332t" region="bottomCenter" style="s1" xml:id="subtitle523">Artık bırakabilirsin.</p>
+<p begin="34705087082t" end="34718850832t" region="bottomCenter" style="s1" xml:id="subtitle524">Kımılda!</p>
+<p begin="34801016250t" end="34832714582t" region="bottomCenter" style="s1" xml:id="subtitle525"><span style="s1_1">-Cevap ver Çavuş!</span><br/>-Sinclair, ben Norton. Neredesin?</p>
+<p begin="34833548750t" end="34862327500t" region="bottomCenter" style="s1" xml:id="subtitle526">Hareket hâlinde!<br/>Queen'deki istasyonda buluşalım!</p>
+<p begin="34863161666t" end="34881513332t" region="bottomCenter" style="s1" xml:id="subtitle527">Queen'deki istasyon, anlaşıldı.</p>
+<p begin="34904870000t" end="34917382500t" region="bottomCenter" style="s1" xml:id="subtitle528">Hadi.</p>
+<p begin="35011643332t" end="35028743750t" region="bottomCenter" style="s1" xml:id="subtitle529">Bulun onu!</p>
+<p begin="35072537500t" end="35085884166t" region="bottomCenter" style="s1" xml:id="subtitle530">Hadi!</p>
+<p begin="35108823750t" end="35127175416t" region="bottomCenter" style="s1" xml:id="subtitle531">Joshua, sorun yok!</p>
+<p begin="35136768332t" end="35163461666t" region="bottomCenter" style="s1" xml:id="subtitle532">-Ona güvenebilirsin.<br/>-Tehlikeli görünüyor.</p>
+<p begin="35164295832t" end="35176391250t" region="bottomCenter" style="s1" xml:id="subtitle533">Öyle.</p>
+<p begin="35196828332t" end="35220185000t" region="bottomCenter" style="s1" xml:id="subtitle534">Norton, duyuyor musun? Cevap ver.</p>
+<p begin="35256054166t" end="35266064166t" region="bottomCenter" style="s1" xml:id="subtitle535">Kimse yok.</p>
+<p begin="35342390416t" end="35355320000t" region="bottomCenter" style="s1" xml:id="subtitle536">Koş!</p>
+<p begin="35385767082t" end="35396611250t" region="bottomCenter" style="s1" xml:id="subtitle537">Seni yakaladığımda</p>
+<p begin="35397445416t" end="35440822082t" region="bottomCenter" style="s1" xml:id="subtitle538">kafanı koparacağım! Kaç bakalım alçak!</p>
+<p begin="35482113332t" end="35502967500t" region="bottomCenter" style="s1" xml:id="subtitle539">Hadi!</p>
+<p begin="35515897082t" end="35526741250t" region="bottomCenter" style="s1" xml:id="subtitle540">Çabuk!</p>
+<p begin="35527575416t" end="35542590416t" region="topCenter" style="s1" xml:id="subtitle541">HİZMET DIŞI</p>
+<p begin="35550515000t" end="35563861666t" region="bottomCenter" style="s1" xml:id="subtitle542">Hadi!</p>
+<p begin="35592223332t" end="35603484582t" region="bottomCenter" style="s1" xml:id="subtitle543">Bu taraftan!</p>
+<p begin="35661042082t" end="35678559582t" region="bottomCenter" style="s1" xml:id="subtitle544">Çabuk ol!</p>
+<p begin="35759056666t" end="35792423332t" region="bottomCenter" style="s1" xml:id="subtitle545">-Motoru çalıştır!<br/>-Norton, duyuyorsan dördüncü peron.</p>
+<p begin="35800765000t" end="35818699582t" region="bottomCenter" style="s1" xml:id="subtitle546">Geliyor musun?</p>
+<p begin="35832463332t" end="35846644166t" region="bottomCenter" style="s1" xml:id="subtitle547">Hadi!</p>
+<p begin="35911709166t" end="35930477916t" region="bottomCenter" style="s1" xml:id="subtitle548">Hadi! Acele edin!</p>
+<p begin="35960925000t" end="35992623332t" region="bottomCenter" style="s1" xml:id="subtitle549">-Binin!<br/>-Alçak!</p>
+<p begin="36026824166t" end="36045175832t" region="bottomCenter" style="s1" xml:id="subtitle550">Hadi Stirling!</p>
+<p begin="36131929166t" end="36144858750t" region="bottomCenter" style="s1" xml:id="subtitle551">Hadi!</p>
+<p begin="36255802916t" end="36277491250t" region="bottomCenter" style="s1" xml:id="subtitle552">Stirling, eğil!</p>
+<p begin="36331712082t" end="36345892916t" region="bottomCenter" style="s1" xml:id="subtitle553">Hadi!</p>
+<p begin="36384264582t" end="36398445416t" region="bottomCenter" style="s1" xml:id="subtitle554">Hadi!</p>
+<p begin="36416797082t" end="36430143750t" region="bottomCenter" style="s1" xml:id="subtitle555">Acele et!</p>
+<p begin="36483530416t" end="36519816666t" region="bottomCenter" style="s1" xml:id="subtitle556">Hadi! Koş Binbaşı! Daha hızlı!</p>
+<p begin="36546927082t" end="36560273750t" region="bottomCenter" style="s1" xml:id="subtitle557">Hadi!</p>
+<p begin="36802182082t" end="36820950832t" region="bottomCenter" style="s1" xml:id="subtitle558">Bizi nereye götürüyorsunuz?</p>
+<p begin="36830126666t" end="36849729582t" region="bottomCenter" style="s1" xml:id="subtitle559">Şimdilik güvenli bir yere.</p>
+<p begin="36852232082t" end="36880593750t" region="bottomCenter" style="s1" xml:id="subtitle560">Kusura bakma<br/>ama güvende olmak için vaktimiz yok.</p>
+<p begin="36881427916t" end="36908121250t" region="bottomCenter" style="s1" xml:id="subtitle561">Bizi Kane'e götüreceğini söylemiştin,<br/>onu hemen görmeliyim.</p>
+<p begin="36908955416t" end="36935648750t" region="bottomCenter" style="s1" xml:id="subtitle562">Onu bulmanıza yardım ederim dedim.<br/>Sizi ona götüremem.</p>
+<p begin="36936482916t" end="36949829582t" region="bottomCenter" style="s1" xml:id="subtitle563">Neden?</p>
+<p begin="36956920000t" end="36973186250t" region="bottomCenter" style="s1" xml:id="subtitle564">Çünkü beni öldürür.</p>
+<p begin="36975688750t" end="37003633332t" region="bottomCenter" style="s1" xml:id="subtitle565">Nereden geldiğinizi öğrenirse<br/>sizi de öldürür.</p>
+<p begin="37004467500t" end="37038251250t" region="bottomCenter" style="s1" xml:id="subtitle566">Sol onu terk ettiğinden beri<br/>herkesten kuşkulanıyor, benden bile.</p>
+<p begin="37039085416t" end="37078291250t" region="bottomCenter" style="s1" xml:id="subtitle567">İnsanlar ondan korkuyor, karşı koyanlar<br/>işkence görüyor ya da öldürülüyor.</p>
+<p begin="37095808750t" end="37118331250t" region="bottomCenter" style="s1" xml:id="subtitle568">Siz o duvarın ardındaki dünyanın<br/>yaşayan kanıtlarısınız.</p>
+<p begin="37119165416t" end="37140853750t" region="bottomCenter" style="s1" xml:id="subtitle569">Hayatımız boyunca bize orada<br/>hiçbir şey olmadığını söyledi.</p>
+<p begin="37141687916t" end="37174637500t" region="bottomCenter" style="s1" xml:id="subtitle570">-Varlığınız onu yalancı yapıyor.<br/>-Şehirde ne yapıyordun?</p>
+<p begin="37175471666t" end="37224270416t" region="bottomCenter" style="s1" xml:id="subtitle571">-Kardeşim Sol'ü aramaya gitmiştim.<br/>-O manyak, kardeşin mi?</p>
+<p begin="37227607082t" end="37264310416t" region="bottomCenter" style="s1" xml:id="subtitle572">-Berbat bir aileymiş.<br/>-Onlar savaştalar.</p>
+<p begin="37275571666t" end="37295591666t" region="bottomCenter" style="s1" xml:id="subtitle573">Biz de tam ortasında kaldık.</p>
+<p begin="37842805000t" end="37853649166t" region="bottomCenter" style="s1" xml:id="subtitle574">Burası neresi?</p>
+<p begin="37854900416t" end="37869915416t" region="bottomCenter" style="s1" xml:id="subtitle575">BEN CRANNICH ARŞİVİ<br/>SADECE YETKİLİLER GİREBİLİR</p>
+<p begin="37870749582t" end="37892020832t" region="bottomCenter" style="s1" xml:id="subtitle576">-Dağı aşmak için kestirme yol.<br/>-Hep kullanırız.</p>
+<p begin="38063025000t" end="38086381666t" region="bottomCenter" style="s1" xml:id="subtitle577">Eski bir askerî tesise benziyor.</p>
+<p begin="38087215832t" end="38132260832t" region="bottomCenter" style="s1" xml:id="subtitle578">Her ne ise aceleyle terk etmişler.<br/>Kapıları bile kilitlememişler.</p>
+<p begin="38385430416t" end="38418797082t" region="topCenter" style="s1" xml:id="subtitle579">Tanrım, içinde ne var acaba?<br/>Kayıp Ahit Sandığı mı?</p>
+<p begin="38420882500t" end="38458420000t" region="bottomCenter" style="s1" xml:id="subtitle580">Bilmiyorum dostum<br/>ama o kapı 30 santim kalınlığında.</p>
+<p begin="38461339582t" end="38497625832t" region="bottomCenter" style="s1" xml:id="subtitle581">Her ne ise<br/>birisi onun güvende olmasını istemiş.</p>
+<p begin="38915543332t" end="38929307082t" region="bottomCenter" style="s1" xml:id="subtitle582">Biri geliyor.</p>
+<p begin="38940568332t" end="38952663750t" region="bottomCenter" style="s1" xml:id="subtitle583">Telamon.</p>
+<p begin="38960588332t" end="38971849582t" region="bottomCenter" style="s1" xml:id="subtitle584">Koşun.</p>
+<p begin="38978940000t" end="39013140832t" region="bottomCenter" style="s1" xml:id="subtitle585">-Dur, Telamon kim ya da ne?<br/>-Kane'in celladı.</p>
+<p begin="39013975000t" end="39029407082t" region="bottomCenter" style="s1" xml:id="subtitle586">Hadi.</p>
+<p begin="39059020000t" end="39083210832t" region="bottomCenter" style="s1" xml:id="subtitle587">-Hadi.<br/>-Siz gidebilirsiniz. Ben kalıyorum.</p>
+<p begin="39085296250t" end="39106150416t" region="bottomCenter" style="s1" xml:id="subtitle588">Tabancanı ver ve saklan.</p>
+<p begin="39106984582t" end="39129090000t" region="bottomCenter" style="s1" xml:id="subtitle589">Umurunda bile değil, değil mi?</p>
+<p begin="39129924166t" end="39157868750t" region="bottomCenter" style="s1" xml:id="subtitle590">Bence planın berbat ama yanında kalacağım.</p>
+<p begin="39355149166t" end="39378088750t" region="bottomCenter" style="s1" xml:id="subtitle591">İşte her gün göremeyeceğin bir şey.</p>
+<p begin="39499042916t" end="39524485000t" region="bottomCenter" style="s1" xml:id="subtitle592">Hayır! Joshua!</p>
+<p begin="39525319166t" end="39548675832t" region="bottomCenter" style="s1" xml:id="subtitle593">Hayır!</p>
+<p begin="39573283750t" end="39593303750t" region="bottomCenter" style="s1" xml:id="subtitle594">Hadi! Çabuk!</p>
+<p begin="39726353332t" end="39743036666t" region="bottomCenter" style="s1" xml:id="subtitle595">Çavuş, silahını indir.</p>
+<p begin="39745122082t" end="39768478750t" region="bottomCenter" style="s1" xml:id="subtitle596">En kısa yoldan Kane'e<br/>ulaşmamız lazım, o da bu.</p>
+<p begin="39771815416t" end="39791835416t" region="bottomCenter" style="s1" xml:id="subtitle597">Pekâlâ. Lanet olsun.</p>
+<p begin="39847724582t" end="39873166666t" region="bottomCenter" style="s1" xml:id="subtitle598">Umarım ne yaptığını biliyorsundur.</p>
+<p begin="40435812082t" end="40449992916t" region="bottomCenter" style="s1" xml:id="subtitle599">Hediyelik Eşya</p>
+<p begin="40789915832t" end="40812438332t" region="bottomCenter" style="s1" xml:id="subtitle600">Şehirleri gözetleyeceklerini biliyordum.</p>
+<p begin="40817443332t" end="40855397916t" region="bottomCenter" style="s1" xml:id="subtitle601">O yüzden burayı seçtik.<br/>Gözden ırak, gönülden ırak.</p>
+<p begin="40864156666t" end="40890015832t" region="bottomCenter" style="s1" xml:id="subtitle602">Galiba birini yollayıp</p>
+<p begin="40895855000t" end="40924633750t" region="bottomCenter" style="s1" xml:id="subtitle603">"Ölmüş olmanız gerekirken<br/>neden hayattasınız?" sorusuna</p>
+<p begin="40929638750t" end="40968844582t" region="bottomCenter" style="s1" xml:id="subtitle604">cevap aramaları an meselesiydi.</p>
+<p begin="40969678750t" end="40989281666t" region="bottomCenter" style="s1" xml:id="subtitle605">Öğrenmek istediğiniz bu, değil mi?</p>
+<p begin="41001794166t" end="41016809166t" region="bottomCenter" style="s1" xml:id="subtitle606">Cevap ver!</p>
+<p begin="41033075416t" end="41054763750t" region="bottomCenter" style="s1" xml:id="subtitle607">Onun gibi bir şey.</p>
+<p begin="41090215832t" end="41103979582t" region="bottomCenter" style="s1" xml:id="subtitle608">Bizi yalnız bırakın.</p>
+<p begin="41201160000t" end="41217009166t" region="bottomCenter" style="s1" xml:id="subtitle609">Cevabı basit.</p>
+<p begin="41220345832t" end="41266642082t" region="bottomCenter" style="s1" xml:id="subtitle610">Hastalar diyarında<br/>bağışıklığı olan kral olur.</p>
+<p begin="41269561666t" end="41297923332t" region="bottomCenter" style="s1" xml:id="subtitle611">Bu sadece bir iktidar takıntısıysa<br/>neden saklanıyorsunuz?</p>
+<p begin="41313355416t" end="41327536250t" region="bottomCenter" style="s1" xml:id="subtitle612">Neden ortaya çıkmıyorsunuz?</p>
+<p begin="41329621666t" end="41374666666t" region="bottomCenter" style="s1" xml:id="subtitle613">Eski hâlimizi isteyerek mi<br/>terk ettiğimizi sanıyorsun?</p>
+<p begin="41375500832t" end="41402611250t" region="bottomCenter" style="s1" xml:id="subtitle614">Hayır. Hiçbir tercihimiz olmadı.</p>
+<p begin="41403862500t" end="41418877500t" region="bottomCenter" style="s1" xml:id="subtitle615">Bize dayatıldı.</p>
+<p begin="41451410000t" end="41470595832t" region="bottomCenter" style="s1" xml:id="subtitle616">Etrafındaki duvarlar</p>
+<p begin="41478520416t" end="41493118332t" region="bottomCenter" style="s1" xml:id="subtitle617">sonsuza kadar kalması için yapıldı.</p>
+<p begin="41493952500t" end="41548173332t" region="bottomCenter" style="s1" xml:id="subtitle618">Biz de ayakta kalacağız.<br/>Küllerden yarattığımız şey</p>
+<p begin="41550258750t" end="41575283750t" region="bottomCenter" style="s1" xml:id="subtitle619">dış dünya tarafından<br/>hastalık bulaştırılmamış saf kan</p>
+<p begin="41586127916t" end="41601977082t" region="bottomCenter" style="s1" xml:id="subtitle620">ama bugüne kadar.</p>
+<p begin="41614072500t" end="41634092500t" region="bottomCenter" style="s1" xml:id="subtitle621">Tedaviyi buldun mu?</p>
+<p begin="41647022082t" end="41680805832t" region="bottomCenter" style="s1" xml:id="subtitle622">Şimdi bile hâlâ umuda sarılıyorsunuz.</p>
+<p begin="41687062082t" end="41717926250t" region="bottomCenter" style="s1" xml:id="subtitle623">Yerinizde olsam<br/>bu tür düşünceleri bırakırdım.</p>
+<p begin="41725850832t" end="41764639582t" region="bottomCenter" style="s1" xml:id="subtitle624">-Umut her zaman vardır.<br/>-Ama tedavi yok.</p>
+<p begin="41770895832t" end="41784659582t" region="bottomCenter" style="s1" xml:id="subtitle625">Hiçbir zaman da olmadı.</p>
+<p begin="41789664582t" end="41824282500t" region="bottomCenter" style="s1" xml:id="subtitle626">Burada varlığımızı sürdürdük.<br/>Bilim sayesinde değil,</p>
+<p begin="41829704582t" end="41868076250t" region="bottomCenter" style="s1" xml:id="subtitle627">doğal ayıklanma sayesinde.<br/>Güçlü olan hayatta kalır.</p>
+<p begin="41897689166t" end="41923965416t" region="bottomCenter" style="s1" xml:id="subtitle628">Burada yaşama hakkını kazandık.</p>
+<p begin="41924799582t" end="41948990416t" region="bottomCenter" style="s1" xml:id="subtitle629">Sizin gibilerden arınmış olarak.</p>
+<p begin="41963588332t" end="41976100832t" region="bottomCenter" style="s1" xml:id="subtitle630">Götürün şunları.</p>
+<p begin="41978603332t" end="42001125832t" region="bottomCenter" style="s1" xml:id="subtitle631">Niye geldiğimizi bilmek istemiyor musun?</p>
+<p begin="42021980000t" end="42041582916t" region="bottomCenter" style="s1" xml:id="subtitle632">Buraya gelmeniz<br/>zaten yeterince büyük bir günah.</p>
+<p begin="42042417082t" end="42075783750t" region="bottomCenter" style="s1" xml:id="subtitle633">Reaper virüsü geri geldi.</p>
+<p begin="42076617916t" end="42123331250t" region="bottomCenter" style="s1" xml:id="subtitle634">Bana bir daha dokunursa<br/>yemin ederim onu öldürürüm.</p>
+<p begin="42239697500t" end="42272230000t" region="bottomCenter" style="s1" xml:id="subtitle635">Hangi cüretle benden yardım istemek için<br/>seni buraya yolladılar?</p>
+<p begin="42274315416t" end="42295586666t" region="bottomCenter" style="s1" xml:id="subtitle636">Bu yangını onlar başlattı.</p>
+<p begin="42297255000t" end="42313938332t" region="bottomCenter" style="s1" xml:id="subtitle637">İçinde yanabilirler!</p>
+<p begin="42321028750t" end="42346470832t" region="topCenter" style="s1" xml:id="subtitle638">LONDRA, SICAK BÖLGENİN İÇİ</p>
+<p begin="42585459582t" end="42595469582t" region="bottomCenter" style="s1" xml:id="subtitle639">ELİNİZİ BURAYA KOYUN</p>
+<p begin="42611318750t" end="42637177916t" region="bottomCenter" style="s1" xml:id="subtitle640"><span style="s1_1">Sağ elinizi ekrana koyun.</span></p>
+<p begin="42671795832t" end="42681805832t" region="bottomCenter" style="s1" xml:id="subtitle641">YUKARIDAKİ KIRMIZI IŞIĞA BAKIN</p>
+<p begin="42682640000t" end="42699740416t" region="bottomCenter" style="s1" xml:id="subtitle642"><span style="s1_1">Şimdi retina tarayıcısına bakın.</span></p>
+<p begin="42756880832t" end="42774815416t" region="bottomCenter" style="s1" xml:id="subtitle643">Şehir elden gidiyor.</p>
+<p begin="42789413332t" end="42806096666t" region="bottomCenter" style="s1" xml:id="subtitle644">Oraya gitsem iyi olacak.</p>
+<p begin="42811518750t" end="42837795000t" region="bottomCenter" style="s1" xml:id="subtitle645">Sizi buradan çıkaralım Başbakan.</p>
+<p begin="42976266666t" end="42992532916t" region="bottomCenter" style="s1" xml:id="subtitle646"><span style="s1_1">Eksi altıncı kat.</span></p>
+<p begin="43229853332t" end="43251958750t" region="bottomCenter" style="s1" xml:id="subtitle647">Bu adam buraya...</p>
+<p begin="43329953332t" end="43359566250t" region="bottomCenter" style="s1" xml:id="subtitle648">Onu izole edin. Hemen ofisine götürün.</p>
+<p begin="43360400416t" end="43379586250t" region="bottomCenter" style="s1" xml:id="subtitle649">-Yürüyün efendim.<br/>-Anlamıyorum nasıl...</p>
+<p begin="43380420416t" end="43405028332t" region="bottomCenter" style="s1" xml:id="subtitle650">-Yaklaşmayın!<br/>-Canaris, ben...</p>
+<p begin="43407530832t" end="43430887500t" region="bottomCenter" style="s1" xml:id="subtitle651">-Canaris!<br/>-Geri!</p>
+<p begin="43431721666t" end="43444651250t" region="bottomCenter" style="s1" xml:id="subtitle652">Canaris!</p>
+<p begin="43463002916t" end="43476349582t" region="bottomCenter" style="s1" xml:id="subtitle653">İyi atıştı.</p>
+<p begin="43513470000t" end="43533490000t" region="bottomCenter" style="s1" xml:id="subtitle654">Onu kurtarmaya çalışıyordum!</p>
+<p begin="43634007082t" end="43684474166t" region="bottomCenter" style="s1" xml:id="subtitle655">Dünyamıza kirlilik getirdiniz.<br/>Temizlenmeniz lazım.</p>
+<p begin="43685308332t" end="43699072082t" region="bottomCenter" style="s1" xml:id="subtitle656">Başla.</p>
+<p begin="43701574582t" end="43726182500t" region="bottomCenter" style="s1" xml:id="subtitle657">Lütfen baba. Lütfen.</p>
+<p begin="43763302916t" end="43795418332t" region="bottomCenter" style="s1" xml:id="subtitle658">Baba lütfen! Hayır!</p>
+<p begin="43809182082t" end="43824197082t" region="bottomCenter" style="s1" xml:id="subtitle659">Babacığım!</p>
+<p begin="43825031250t" end="43853392916t" region="bottomCenter" style="s1" xml:id="subtitle660">Hayır! Babacığım!</p>
+<p begin="43862151666t" end="43877166666t" region="bottomCenter" style="s1" xml:id="subtitle661">Babacığım!</p>
+<p begin="43909699166t" end="43934724166t" region="bottomCenter" style="s1" xml:id="subtitle662">Hayır!</p>
+<p begin="44011467500t" end="44029819166t" region="bottomCenter" style="s1" xml:id="subtitle663">Sen. Arkanı dön.</p>
+<p begin="44056929582t" end="44069859166t" region="bottomCenter" style="s1" xml:id="subtitle664">Ellerini bağla.</p>
+<p begin="44103225832t" end="44136175416t" region="bottomCenter" style="s1" xml:id="subtitle665">Sinclair, sana Binbaşı demeden önce<br/>ne diyorlardı?</p>
+<p begin="44141597500t" end="44152024582t" region="bottomCenter" style="s1" xml:id="subtitle666">Eden.</p>
+<p begin="44156195416t" end="44187893750t" region="bottomCenter" style="s1" xml:id="subtitle667">Eden, bunun hâlâ berbat bir plan<br/>olduğunu düşünüyorum.</p>
+<p begin="44376832500t" end="44393932916t" region="bottomCenter" style="s1" xml:id="subtitle668">Söyle bakalım.</p>
+<p begin="44414370000t" end="44437309582t" region="bottomCenter" style="s1" xml:id="subtitle669">Dışarısı nasıl bir yer?</p>
+<p begin="44447319582t" end="44464002916t" region="bottomCenter" style="s1" xml:id="subtitle670">Umurunda mı?</p>
+<p begin="44466088332t" end="44480269166t" region="bottomCenter" style="s1" xml:id="subtitle671">Merak ediyorum.</p>
+<p begin="44484440000t" end="44520309166t" region="bottomCenter" style="s1" xml:id="subtitle672">Aynı pislik, farklı dönem.</p>
+<p begin="44526148332t" end="44567856666t" region="bottomCenter" style="s1" xml:id="subtitle673">Öyleyse burada biz bize kalmakla<br/>doğru yapmışız.</p>
+<p begin="44569942082t" end="44606645416t" region="bottomCenter" style="s1" xml:id="subtitle674">Yani sırtını dönmekle mi?<br/>Eskiden doktordun.</p>
+<p begin="44607896666t" end="44625414166t" region="bottomCenter" style="s1" xml:id="subtitle675">Hangi noktada umursamayı bıraktın?</p>
+<p begin="44626248332t" end="44650439166t" region="bottomCenter" style="s1" xml:id="subtitle676">Ben de idealisttim.</p>
+<p begin="44680886250t" end="44707162500t" region="bottomCenter" style="s1" xml:id="subtitle677">Kapıları kapadıkları gece.</p>
+<p begin="44725514166t" end="44768473750t" region="bottomCenter" style="s1" xml:id="subtitle678">O gece her şeyimi kaybettim.</p>
+<p begin="44773061666t" end="44793081666t" region="bottomCenter" style="s1" xml:id="subtitle679">Karımı, ailemi.</p>
+<p begin="44817689582t" end="44851890416t" region="bottomCenter" style="s1" xml:id="subtitle680">-Acıyı bilmezsin.<br/>-Gizli kalmayı seçtin.</p>
+<p begin="44866488332t" end="44890679166t" region="bottomCenter" style="s1" xml:id="subtitle681">Karın ve ailen hâlâ dışarıda olabilir.</p>
+<p begin="44895267082t" end="44919040832t" region="bottomCenter" style="s1" xml:id="subtitle682">Çektikleri acıyı hiç düşünüyor musun?</p>
+<p begin="44919875000t" end="44964502916t" region="bottomCenter" style="s1" xml:id="subtitle683">25 yıldır hiçbir gece<br/>o anı tekrar yaşamadan uyumadım.</p>
+<p begin="44974095832t" end="45009547916t" region="bottomCenter" style="s1" xml:id="subtitle684">Kimsin ki benimle acı hakkında<br/>konuşuyorsun? Ne biliyorsun?</p>
+<p begin="45024980000t" end="45044165832t" region="bottomCenter" style="s1" xml:id="subtitle685">Ne kaybettin ki?</p>
+<p begin="45663951666t" end="45676881250t" region="bottomCenter" style="s1" xml:id="subtitle686">Hadi canım.</p>
+<p begin="46430967916t" end="46448068332t" region="bottomCenter" style="s1" xml:id="subtitle687">Babacığın seni görmek istiyor.</p>
+<p begin="46454741666t" end="46467671250t" region="bottomCenter" style="s1" xml:id="subtitle688">Geri çekil!</p>
+<p begin="46520223750t" end="46545248750t" region="bottomCenter" style="s1" xml:id="subtitle689">Aptallık etme dostum. Havamda değilim.</p>
+<p begin="46551505000t" end="46567354166t" region="bottomCenter" style="s1" xml:id="subtitle690">Stirling, anahtarları al!</p>
+<p begin="46643680416t" end="46656610000t" region="bottomCenter" style="s1" xml:id="subtitle691">Geri çekil.</p>
+<p begin="46903523332t" end="46925628750t" region="bottomCenter" style="s1" xml:id="subtitle692">Çekil önümden sersem!</p>
+<p begin="46966085832t" end="47010296666t" region="bottomCenter" style="s1" xml:id="subtitle693">El bombaları. Harika. İşe yarar.<br/>Hadi doktor!</p>
+<p begin="47595047500t" end="47609228332t" region="bottomCenter" style="s1" xml:id="subtitle694">Neyi kaybettiğimi söyleyeyim.</p>
+<p begin="47623409166t" end="47639675416t" region="bottomCenter" style="s1" xml:id="subtitle695">Aklımı kaybettim.</p>
+<p begin="47863649166t" end="47883669166t" region="bottomCenter" style="s1" xml:id="subtitle696">Mahkûmları öldürün! Hemen!</p>
+<p begin="47938307082t" end="47966668750t" region="bottomCenter" style="s1" xml:id="subtitle697">Burçlara! Saldırı altındayız!</p>
+<p begin="48014216250t" end="48038824166t" region="bottomCenter" style="s1" xml:id="subtitle698">-Güzel.<br/>-Evet. Hadi.</p>
+<p begin="48051336666t" end="48061346666t" region="bottomCenter" style="s1" xml:id="subtitle699">ACİL ÇIKIŞ</p>
+<p begin="48068854166t" end="48091793750t" region="bottomCenter" style="s1" xml:id="subtitle700">Neredeler?</p>
+<p begin="48116818750t" end="48128497082t" region="bottomCenter" style="s1" xml:id="subtitle701">Alçaklar!</p>
+<p begin="48203572082t" end="48223592082t" region="bottomCenter" style="s1" xml:id="subtitle702">Sen, bitir işini.</p>
+<p begin="48226511666t" end="48237772916t" region="bottomCenter" style="s1" xml:id="subtitle703">Lanet olsun.</p>
+<p begin="48421289582t" end="48431299582t" region="bottomCenter" style="s1" xml:id="subtitle704">Cally!</p>
+<p begin="48432133750t" end="48446314582t" region="bottomCenter" style="s1" xml:id="subtitle705">Hadi. Vaktimiz yok!</p>
+<p begin="48582700832t" end="48599384166t" region="bottomCenter" style="s1" xml:id="subtitle706">Atlara!</p>
+<p begin="48751619582t" end="48766634582t" region="bottomCenter" style="s1" xml:id="subtitle707">Çabuk!</p>
+<p begin="48822106666t" end="48846297500t" region="bottomCenter" style="s1" xml:id="subtitle708">-Hadi!<br/>-Meşaleleri alın!</p>
+<p begin="48847131666t" end="48861312500t" region="bottomCenter" style="s1" xml:id="subtitle709">-Al bakalım.<br/>-Çavuş, kapıyı kapa.</p>
+<p begin="48862146666t" end="48872990832t" region="bottomCenter" style="s1" xml:id="subtitle710">Hadi!</p>
+<p begin="48980598332t" end="49015216250t" region="bottomCenter" style="s1" xml:id="subtitle711">Çavuş, bak bakalım yedek jeneratör var mı?</p>
+<p begin="49079447082t" end="49101552500t" region="bottomCenter" style="s1" xml:id="subtitle712">Bir şey bulmamız lazım, hem de hemen.</p>
+<p begin="49122406666t" end="49163280832t" region="bottomCenter" style="s1" xml:id="subtitle713">YEDEK GÜÇ</p>
+<p begin="49231682500t" end="49246697500t" region="bottomCenter" style="s1" xml:id="subtitle714">Seç beğen al.</p>
+<p begin="49324275000t" end="49340958332t" region="bottomCenter" style="s1" xml:id="subtitle715">Şu kutuya bakalım.</p>
+<p begin="49395596250t" end="49426460416t" region="bottomCenter" style="s1" xml:id="subtitle716">Neye bakıyorsunuz? Kırın şunu!</p>
+<p begin="49508208750t" end="49536987500t" region="bottomCenter" style="s1" xml:id="subtitle717">-Vay.<br/>-Rengi güzelmiş. Alıyorum.</p>
+<p begin="49543660832t" end="49582032500t" region="bottomCenter" style="s1" xml:id="subtitle718">-Kapıyı açayım.<br/>-Stirling, Cally, doldurun.</p>
+<p begin="49582866666t" end="49605806250t" region="bottomCenter" style="s1" xml:id="subtitle719">-Nereye gidiyorsun?<br/>-Telefon bulmaya.</p>
+<p begin="49606640416t" end="49617484582t" region="bottomCenter" style="s1" xml:id="subtitle720">Yardım et.</p>
+<p begin="49618318750t" end="49639172916t" region="bottomCenter" style="s1" xml:id="subtitle721">Acele edin tembel ahmaklar!</p>
+<p begin="49936136250t" end="49948648750t" region="bottomCenter" style="s1" xml:id="subtitle722">Hadi!</p>
+<p begin="50014130832t" end="50024975000t" region="bottomCenter" style="s1" xml:id="subtitle723">Mükemmel.</p>
+<p begin="50115482082t" end="50139255832t" region="bottomCenter" style="s1" xml:id="subtitle724">-Arkaya bin.<br/>-Ne yapar?</p>
+<p begin="50151351250t" end="50166366250t" region="bottomCenter" style="s1" xml:id="subtitle725">Ne yaptığını göstereceğim.</p>
+<p begin="51003452500t" end="51015130832t" region="bottomCenter" style="s1" xml:id="subtitle726">GÜNEY<br/>GLASGOW 56</p>
+<p begin="51308340416t" end="51318767500t" region="bottomCenter" style="s1" xml:id="subtitle727">Nelson.</p>
+<p begin="51319601666t" end="51335033750t" region="bottomCenter" style="s1" xml:id="subtitle728">Paketi aldık. Yoldayız.</p>
+<p begin="51351717082t" end="51375490832t" region="bottomCenter" style="s1" xml:id="subtitle729">Hemen gelin.</p>
+<p begin="51398847500t" end="51427209166t" region="bottomCenter" style="s1" xml:id="subtitle730">Canaris başa geçti. Hatcher öldü.</p>
+<p begin="51451817082t" end="51465163750t" region="bottomCenter" style="s1" xml:id="subtitle731">Onunla konuşayım.</p>
+<p begin="51481430000t" end="51494359582t" region="bottomCenter" style="s1" xml:id="subtitle732">Sana.</p>
+<p begin="51543992500t" end="51555253750t" region="bottomCenter" style="s1" xml:id="subtitle733">Evet?</p>
+<p begin="51559841666t" end="51588203332t" region="bottomCenter" style="s1" xml:id="subtitle734">Hâlâ ödülünü istiyor musun?<br/>Bu sinyali takip et.</p>
+<p begin="51636585000t" end="51666197916t" region="bottomCenter" style="s1" xml:id="subtitle735">Sinyali takip et.<br/>Koordinatları bana yolla.</p>
+<p begin="51667866250t" end="51684132500t" region="bottomCenter" style="s1" xml:id="subtitle736">Evet, bu kadar.</p>
+<p begin="51690388750t" end="51703318332t" region="bottomCenter" style="s1" xml:id="subtitle737">Gidelim.</p>
+<p begin="51704152500t" end="51721670000t" region="bottomCenter" style="s1" xml:id="subtitle738">Ben yokken sorumlu sensin.</p>
+<p begin="51723338332t" end="51757956250t" region="bottomCenter" style="s1" xml:id="subtitle739">Buraya kadar.<br/>Buradan sonrasını biz hallederiz.</p>
+<p begin="52003201250t" end="52023221250t" region="bottomCenter" style="s1" xml:id="subtitle740">İnanılmaz!</p>
+<p begin="52043241250t" end="52054502500t" region="bottomCenter" style="s1" xml:id="subtitle741">Evet!</p>
+<p begin="52060758750t" end="52085366666t" region="bottomCenter" style="s1" xml:id="subtitle742">-Kökle!<br/>-Bu piçlerden kaçmaktan bıktım.</p>
+<p begin="52086617916t" end="52098713332t" region="bottomCenter" style="s1" xml:id="subtitle743">Sıkı tutunun!</p>
+<p begin="52145426666t" end="52155436666t" region="bottomCenter" style="s1" xml:id="subtitle744">Evet!</p>
+<p begin="52210074582t" end="52223421250t" region="bottomCenter" style="s1" xml:id="subtitle745">Kökle!</p>
+<p begin="52267215000t" end="52277642082t" region="bottomCenter" style="s1" xml:id="subtitle746">Alçak!</p>
+<p begin="52512877082t" end="52534565416t" region="bottomCenter" style="s1" xml:id="subtitle747">-Lanet olsun!<br/>-Tanrım.</p>
+<p begin="52792740000t" end="52807755000t" region="bottomCenter" style="s1" xml:id="subtitle748">Çok yakındalar.</p>
+<p begin="52810257500t" end="52824021250t" region="bottomCenter" style="s1" xml:id="subtitle749">Öyle mi?</p>
+<p begin="53025472500t" end="53048412082t" region="bottomCenter" style="s1" xml:id="subtitle750">Tutunun, gezmeye gidiyoruz.</p>
+<p begin="53050080416t" end="53067180832t" region="bottomCenter" style="s1" xml:id="subtitle751">Aklını mı kaçırdın?</p>
+<p begin="53213994166t" end="53226089582t" region="bottomCenter" style="s1" xml:id="subtitle752">SENİN BOKUN,<br/>BİZİM EKMEĞİMİZ VE YAĞIMIZ</p>
+<p begin="53444224166t" end="53461324582t" region="bottomCenter" style="s1" xml:id="subtitle753">Lanet olsun!</p>
+<p begin="53521384582t" end="53534314166t" region="bottomCenter" style="s1" xml:id="subtitle754">Geliyorlar.</p>
+<p begin="53542655832t" end="53560173332t" region="bottomCenter" style="s1" xml:id="subtitle755">Hadi!</p>
+<p begin="53898427916t" end="53917613749t" region="bottomCenter" style="s1" xml:id="subtitle756">Hayır!</p>
+<p begin="54013542916t" end="54028974999t" region="bottomCenter" style="s1" xml:id="subtitle757">Hayır!</p>
+<p begin="54177039582t" end="54189134999t" region="bottomCenter" style="s1" xml:id="subtitle758">Lütfen.</p>
+<p begin="54204149999t" end="54232928749t" region="bottomCenter" style="s1" xml:id="subtitle759">Lütfen dur! Bizi öldüreceksin!</p>
+<p begin="54254199999t" end="54265878332t" region="bottomCenter" style="s1" xml:id="subtitle760">Cally!</p>
+<p begin="54291320416t" end="54318430832t" region="bottomCenter" style="s1" xml:id="subtitle761">Bırak onu kaltak!</p>
+<p begin="54856051249t" end="54867729582t" region="bottomCenter" style="s1" xml:id="subtitle762">Cally!</p>
+<p begin="55029974999t" end="55040402082t" region="bottomCenter" style="s1" xml:id="subtitle763">Tamam.</p>
+<p begin="55087949582t" end="55109637916t" region="bottomCenter" style="s1" xml:id="subtitle764">-Acıyı sever misin?<br/>-Evet.</p>
+<p begin="55110472082t" end="55125069999t" region="bottomCenter" style="s1" xml:id="subtitle765">Al bakalım!</p>
+<p begin="55466661249t" end="55481676249t" region="bottomCenter" style="s1" xml:id="subtitle766">Kökle!</p>
+<p begin="55620147916t" end="55630157916t" region="bottomCenter" style="s1" xml:id="subtitle767">Hayır.</p>
+<p begin="55647675416t" end="55657685416t" region="bottomCenter" style="s1" xml:id="subtitle768">Cally!</p>
+<p begin="55661439166t" end="55679790832t" region="bottomCenter" style="s1" xml:id="subtitle769">Cally!</p>
+<p begin="55722750416t" end="55742353332t" region="bottomCenter" style="s1" xml:id="subtitle770">-Hayır!<br/>-Lanet olsun.</p>
+<p begin="55746107082t" end="55771549166t" region="bottomCenter" style="s1" xml:id="subtitle771">Hayır! Dur!</p>
+<p begin="55798242499t" end="55816594166t" region="bottomCenter" style="s1" xml:id="subtitle772">Alçaklar!</p>
+<p begin="55879573749t" end="55891252082t" region="bottomCenter" style="s1" xml:id="subtitle773">Lanet olsun!</p>
+<p begin="56236179999t" end="56260370832t" region="bottomCenter" style="s1" xml:id="subtitle774">Lanet olsun!</p>
+<p begin="56901427916t" end="56916859999t" region="bottomCenter" style="s1" xml:id="subtitle775">Binbaşı Sinclair.</p>
+<p begin="56931457916t" end="56951894999t" region="bottomCenter" style="s1" xml:id="subtitle776">Bir an beni kaygılandırdın.</p>
+<p begin="56962739166t" end="56976502916t" region="bottomCenter" style="s1" xml:id="subtitle777">Yanında mı?</p>
+<p begin="56991517916t" end="57004030416t" region="bottomCenter" style="s1" xml:id="subtitle778">Yanımda.</p>
+<p begin="57019462499t" end="57031557916t" region="bottomCenter" style="s1" xml:id="subtitle779">Sağlık ekibi nerede?</p>
+<p begin="57032392082t" end="57067009999t" region="bottomCenter" style="s1" xml:id="subtitle780">Bu işi zorlaştırmayalım.<br/>İyi iş çıkardınız.</p>
+<p begin="57073266249t" end="57085361666t" region="bottomCenter" style="s1" xml:id="subtitle781">Gerisini biz hallederiz.</p>
+<p begin="57086195832t" end="57105798749t" region="bottomCenter" style="s1" xml:id="subtitle782">Stirling, kızı getir.</p>
+<p begin="57193386249t" end="57225918749t" region="bottomCenter" style="s1" xml:id="subtitle783">Stirling'in kusuruna bakma.<br/>İşine çok bağlıdır.</p>
+<p begin="57226752916t" end="57246355832t" region="bottomCenter" style="s1" xml:id="subtitle784">Pekâlâ. Gidelim.</p>
+<p begin="57247607082t" end="57267627082t" region="bottomCenter" style="s1" xml:id="subtitle785">Fedakârlık yapmamız gerektiğini anlıyoruz.</p>
+<p begin="57268461249t" end="57314340416t" region="bottomCenter" style="s1" xml:id="subtitle786">Ortalık sakinleştiğinde<br/>durum daha iyi olacak.</p>
+<p begin="57321430832t" end="57367309999t" region="bottomCenter" style="s1" xml:id="subtitle787">Virüs cesetleri yedikten sonra<br/>harekete geçeceğiz.</p>
+<p begin="57371897916t" end="57407349999t" region="bottomCenter" style="s1" xml:id="subtitle788">-Sadece zamanlama meselesi.<br/>-Seni kahraman yapacak.</p>
+<p begin="57408184166t" end="57435294582t" region="bottomCenter" style="s1" xml:id="subtitle789">Tedavi yanımda demiştin. Nerede?</p>
+<p begin="57436128749t" end="57462822082t" region="bottomCenter" style="s1" xml:id="subtitle790">Tedavi kızın kendisi.<br/>Hayatta kalma yolu bağışıklığı.</p>
+<p begin="57463656249t" end="57491183749t" region="bottomCenter" style="s1" xml:id="subtitle791">Aşı yapmak için kanını kullanabiliriz.</p>
+<p begin="57506198749t" end="57528721249t" region="bottomCenter" style="s1" xml:id="subtitle792">-Kızı bize verin.<br/>-Bensiz hiçbir yere gitmiyor.</p>
+<p begin="57529555416t" end="57554580416t" region="bottomCenter" style="s1" xml:id="subtitle793">-Yüzbaşı.<br/>-Arkama geç.</p>
+<p begin="57566675832t" end="57584193332t" region="bottomCenter" style="s1" xml:id="subtitle794">Onu hemen bize teslim et.</p>
+<p begin="57593369166t" end="57606298749t" region="bottomCenter" style="s1" xml:id="subtitle795">Onlarla git.</p>
+<p begin="57620896666t" end="57636328749t" region="bottomCenter" style="s1" xml:id="subtitle796">Ona güvenmiyorum.</p>
+<p begin="57649675416t" end="57667192916t" region="bottomCenter" style="s1" xml:id="subtitle797">-Başka seçeneğimiz yok.<br/>-Yani buraya kadar mı?</p>
+<p begin="57668027082t" end="57690549582t" region="bottomCenter" style="s1" xml:id="subtitle798">Pazarlık edeceğim bir şey yok.</p>
+<p begin="57704730416t" end="57720996666t" region="bottomCenter" style="s1" xml:id="subtitle799">Görevimi yaptım.</p>
+<p begin="57743936249t" end="57771463749t" region="bottomCenter" style="s1" xml:id="subtitle800">-Şimdi sıra sende.<br/>-Senin için sadece bu muydu?</p>
+<p begin="57780639582t" end="57792317916t" region="bottomCenter" style="s1" xml:id="subtitle801">Bir iş miydi?</p>
+<p begin="57826935832t" end="57840282499t" region="bottomCenter" style="s1" xml:id="subtitle802">Evet.</p>
+<p begin="57861970832t" end="57879071249t" region="bottomCenter" style="s1" xml:id="subtitle803">Şimdi onu al ve git.</p>
+<p begin="58010035416t" end="58036728749t" region="bottomCenter" style="s1" xml:id="subtitle804">-Zor muydu?<br/>-Yeterince.</p>
+<p begin="58057999999t" end="58075934582t" region="bottomCenter" style="s1" xml:id="subtitle805">Sigaran var mı?</p>
+<p begin="58077602916t" end="58113054999t" region="bottomCenter" style="s1" xml:id="subtitle806">Benimle gel.<br/>İstediğin kadar sigara alırım.</p>
+<p begin="58153929166t" end="58187712916t" region="bottomCenter" style="s1" xml:id="subtitle807">Yazık. Senin gibi biri işime yarardı.</p>
+<p begin="58877985832t" end="58894252082t" region="bottomCenter" style="s1" xml:id="subtitle808">O kadar güzel ki.</p>
+<p begin="59010618332t" end="59023964999t" region="bottomCenter" style="s1" xml:id="subtitle809">İyi misin?</p>
+<p begin="59089029999t" end="59103627916t" region="bottomCenter" style="s1" xml:id="subtitle810">Hiç bu kadar iyi olmamıştım.</p>
+<p begin="59121562499t" end="59137828749t" region="bottomCenter" style="s1" xml:id="subtitle811">Beni nasıl buldun?</p>
+<p begin="59144502082t" end="59167858749t" region="bottomCenter" style="s1" xml:id="subtitle812">Bir zamanlar polistim.</p>
+<p begin="59222496666t" end="59240431249t" region="bottomCenter" style="s1" xml:id="subtitle813">Buna artık ihtiyacım yok.</p>
+<p begin="59282973749t" end="59303410832t" region="bottomCenter" style="s1" xml:id="subtitle814">Canaris istediğini aldı mı?</p>
+<p begin="59305496249t" end="59317174582t" region="bottomCenter" style="s1" xml:id="subtitle815">Aldı.</p>
+<p begin="59348455832t" end="59373897916t" region="bottomCenter" style="s1" xml:id="subtitle816">İçimden bir his, onu bir süre<br/>elinde tutacağını söylüyor.</p>
+<p begin="59374732082t" end="59385993332t" region="bottomCenter" style="s1" xml:id="subtitle817">Lanet olsun.</p>
+<p begin="59413103749t" end="59427284582t" region="bottomCenter" style="s1" xml:id="subtitle818">Kaygılanma.</p>
+<p begin="59433957916t" end="59456480416t" region="bottomCenter" style="s1" xml:id="subtitle819">Karşılığında bana bir şey verdi.</p>
+<p begin="59483590832t" end="59508198749t" region="bottomCenter" style="s1" xml:id="subtitle820">Canaris'i devirmek için<br/>ihtiyacın olan kanıt.</p>
+<p begin="59520711249t" end="59533223749t" region="bottomCenter" style="s1" xml:id="subtitle821">Peşinden gelecek.</p>
+<p begin="59534057916t" end="59552826666t" region="bottomCenter" style="s1" xml:id="subtitle822">Beni nerede bulacağını biliyor.</p>
+<p begin="59594952082t" end="59604962082t" region="bottomCenter" style="s1" xml:id="subtitle823">Hadi.</p>
+<p begin="59787644582t" end="59818091666t" region="bottomCenter" style="s1" xml:id="subtitle824">Bana bir iyilik yap. Dikkatli sür.</p>
+<p begin="59833940832t" end="59846870416t" region="bottomCenter" style="s1" xml:id="subtitle825">Şanslı ol.</p>
+<p begin="60035809166t" end="60080437082t" region="bottomCenter" style="s1" xml:id="subtitle826"><span style="s1_1">Ortalık sakinleştiğinde </span><br/><span style="s1_1">durum daha iyi olacak.</span></p>
+<p begin="60081271249t" end="60134240832t" region="bottomCenter" style="s1" xml:id="subtitle827"><span style="s1_1">Virüs cesetleri yedikten sonra </span><br/><span style="s1_1">harekete geçeceğiz.</span></p>
+<p begin="60136326249t" end="60159265832t" region="bottomCenter" style="s1" xml:id="subtitle828"><span style="s1_1">Seni kahraman yapacak.</span></p>
+<p begin="60595117916t" end="60612218332t" region="bottomCenter" style="s1" xml:id="subtitle829">Karnınız açsa</p>
+<p begin="60623479582t" end="60644750832t" region="bottomCenter" style="s1" xml:id="subtitle830">arkadaşınızdan bir parça yiyin!</p>
+<p begin="65261446249t" end="65281466249t" region="bottomCenter" style="s1" xml:id="subtitle831">Çeviren:<br/>Mustafa Hamit Çalışkan</p>
+</div>
+</body>
+</tt>
